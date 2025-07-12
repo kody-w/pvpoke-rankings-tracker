@@ -1,0 +1,38 @@
+name: Scrape PvPoke Rankings
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    # Run every 6 hours at 15 minutes past the hour
+    - cron: '15 */6 * * *'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v4
+      
+    - name: Set up environment
+      run: |
+        # Install jq for JSON processing
+        sudo apt-get update
+        sudo apt-get install -y jq
+        
+    - name: Fetch Master League rankings
+      run: |
+        echo "Fetching PvPoke Master League rankings..."
+        curl -s "https://raw.githubusercontent.com/pvpoke/pvpoke/refs/heads/master/src/data/rankings/all/overall/rankings-10000.json" | jq . > rankings-10000.json
+        
+    - name: Fetch Ultra League rankings
+      run: |
+        echo "Fetching PvPoke Ultra League rankings..."
+        curl -s "https://raw.githubusercontent.com/pvpoke/pvpoke/refs/heads/master/src/data/rankings/all/overall/rankings-2500.json" | jq . > rankings-2500.json
+        
+    - name: Fetch Great League rankings
+      run: |
+        echo "Fetching PvPoke Great League rankings..."
+        curl -s "https://raw.githubusercontent.com/pvpoke/pvpoke/refs/heads/master/src/data/rankings/all/overall/rankings-1500.json" | jq . > rankings-1500.json
