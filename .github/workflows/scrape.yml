@@ -8,6 +8,9 @@ on:
     # Run every 6 hours at 15 minutes past the hour
     - cron: '15 */6 * * *'
 
+permissions:
+  contents: write  # This gives the workflow permission to push changes
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
