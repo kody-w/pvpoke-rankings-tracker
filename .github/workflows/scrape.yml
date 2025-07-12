@@ -27,12 +27,42 @@ jobs:
         echo "Fetching PvPoke Master League rankings..."
         curl -s "https://raw.githubusercontent.com/pvpoke/pvpoke/refs/heads/master/src/data/rankings/all/overall/rankings-10000.json" | jq . > rankings-10000.json
         
-    - name: Fetch Ultra League rankings
+    - name: Generate summary statistics
       run: |
-        echo "Fetching PvPoke Ultra League rankings..."
-        curl -s "https://raw.githubusercontent.com/pvpoke/pvpoke/refs/heads/master/src/data/rankings/all/overall/rankings-2500.json" | jq . > rankings-2500.json
+        echo "Generating ranking summaries..."
         
-    - name: Fetch Great League rankings
+        # Create summary files for easier tracking
+        echo "## PvPoke Rankings Summary - $(date -u)" > SUMMARY.md
+        echo "" >> SUMMARY.md
+        
+        # Master League summary
+        echo "### Master League (10000 CP)" >> SUMMARY.md
+        echo "- Total Pokemon: $(jq length rankings-10000.json)" >> SUMMARY.md
+        echo "- Top 10 Pokemon:" >> SUMMARY.md
+        jq -r '.[:10] | .[] | "  - \(.speciesName): \(.score | tostring | .[0:6]) points"' rankings-10000.json >> SUMMARY.md
+        echo "" >> SUMMARY.md
+        
+    - name: Commit and push changes
       run: |
-        echo "Fetching PvPoke Great League rankings..."
-        curl -s "https://raw.githubusercontent.com/pvpoke/pvpoke/refs/heads/master/src/data/rankings/all/overall/rankings-1500.json" | jq . > rankings-1500.json
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Check if there are any changes
+        git add -A
+        
+        # Only commit if there are changes
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          # Create meaningful commit message
+          TIMESTAMP=$(date -u)
+          
+          # Check which files changed
+          CHANGED_FILES=$(git diff --staged --name-only)
+          
+          # Generate commit message based on changes
+          COMMIT_MSG="Rankings update: $TIMESTAMP"
+          
+          git commit -m "$COMMIT_MSG"
+          git push
+        fi
