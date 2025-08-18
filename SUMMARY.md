@@ -1,16 +1,16 @@
-## PvPoke Rankings Summary - Mon Aug 18 13:03:06 UTC 2025
+## PvPoke Rankings Summary - Mon Aug 18 18:45:39 UTC 2025
 
 ### Master League (10000 CP)
-- Total Pokemon: 378
+- Total Pokemon: 379
 - Top 10 Pokemon:
   - Zamazenta (Crowned Shield): 98.5 points
   - Zacian (Crowned Sword): 97.5 points
-  - Palkia (Origin): 95.8 points
-  - Solgaleo: 93.7 points
-  - Necrozma (Dawn Wings): 91.2 points
-  - Kyurem (Black): 90.8 points
+  - Palkia (Origin): 95.7 points
+  - Solgaleo: 93.5 points
+  - Necrozma (Dawn Wings): 91 points
+  - Kyurem (Black): 90.7 points
   - Lunala: 90.4 points
+  - Eternatus: 90 points
   - Palkia (Shadow): 90 points
-  - Urshifu (Single Strike): 89.6 points
-  - Palkia: 88.5 points
+  - Urshifu (Single Strike): 89.5 points
 
