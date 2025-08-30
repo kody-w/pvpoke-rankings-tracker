@@ -101,7 +101,7 @@
   {
     "speciesId": "zacian_crowned_sword",
     "speciesName": "Zacian (Crowned Sword)",
-    "rating": 736,
+    "rating": 735,
     "matchups": [
       {
         "opponent": "kyurem_white",
@@ -389,7 +389,7 @@
     "scores": [
       95.6,
       78,
-      84.8,
+      84.6,
       89.3,
       98.4,
       87.5
@@ -404,7 +404,7 @@
   {
     "speciesId": "necrozma_dawn_wings",
     "speciesName": "Necrozma (Dawn Wings)",
-    "rating": 680,
+    "rating": 681,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -498,7 +498,7 @@
       87.8,
       88.3,
       96.8,
-      68.4,
+      68.7,
       82.8
     ],
     "stats": {
@@ -714,7 +714,7 @@
       89.3,
       77.4,
       89.2,
-      78.7,
+      78.9,
       96.6
     ],
     "stats": {
@@ -833,7 +833,7 @@
   {
     "speciesId": "eternatus",
     "speciesName": "Eternatus",
-    "rating": 735,
+    "rating": 734,
     "matchups": [
       {
         "opponent": "kyurem_black",
@@ -1021,8 +1021,8 @@
       96.2,
       77.6,
       86.3,
-      94,
-      63.2,
+      93.9,
+      63.4,
       94.9
     ],
     "stats": {
@@ -1035,7 +1035,7 @@
   {
     "speciesId": "palkia",
     "speciesName": "Palkia",
-    "rating": 737,
+    "rating": 736,
     "matchups": [
       {
         "opponent": "ho_oh",
@@ -1332,13 +1332,13 @@
       "CRUNCH",
       "EARTHQUAKE"
     ],
-    "score": 88,
+    "score": 88.1,
     "scores": [
       88.2,
       82,
       68.8,
       82.7,
-      91.2,
+      91.4,
       86.4
     ],
     "stats": {
@@ -1562,7 +1562,7 @@
       91.4,
       72.1,
       88.5,
-      95.2,
+      95.1,
       73.7,
       77.7
     ],
@@ -1889,7 +1889,7 @@
     ],
     "score": 86.7,
     "scores": [
-      89.1,
+      89.3,
       81.8,
       88,
       91.4,
@@ -1906,7 +1906,7 @@
   {
     "speciesId": "rhyperior_shadow",
     "speciesName": "Rhyperior (Shadow)",
-    "rating": 722,
+    "rating": 721,
     "matchups": [
       {
         "opponent": "ho_oh",
@@ -2218,9 +2218,9 @@
     "score": 86.6,
     "scores": [
       89.1,
-      79.9,
+      80,
       83,
-      86.6,
+      86.7,
       77.2,
       96.3
     ],
@@ -2506,7 +2506,7 @@
       83.2,
       70.8,
       86.8,
-      69.1,
+      69.3,
       98.5
     ],
     "stats": {
@@ -2807,7 +2807,7 @@
   {
     "speciesId": "urshifu_rapid_strike",
     "speciesName": "Urshifu (Rapid Strike)",
-    "rating": 628,
+    "rating": 627,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -3133,7 +3133,7 @@
   {
     "speciesId": "heatran",
     "speciesName": "Heatran",
-    "rating": 666,
+    "rating": 665,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -3442,9 +3442,9 @@
       "CRUNCH",
       "WILD_CHARGE"
     ],
-    "score": 84.8,
+    "score": 84.9,
     "scores": [
-      86.8,
+      87,
       84.4,
       69.4,
       80.2,
@@ -3461,7 +3461,7 @@
   {
     "speciesId": "dragonite_shadow",
     "speciesName": "Dragonite (Shadow)",
-    "rating": 712,
+    "rating": 711,
     "matchups": [
       {
         "opponent": "landorus_therian",
@@ -3673,7 +3673,7 @@
     "score": 84.5,
     "scores": [
       83.1,
-      73.9,
+      74.1,
       78.2,
       87,
       79.6,
@@ -3811,7 +3811,7 @@
   {
     "speciesId": "florges",
     "speciesName": "Florges",
-    "rating": 697,
+    "rating": 696,
     "matchups": [
       {
         "opponent": "kyurem_black",
@@ -3867,15 +3867,15 @@
         },
         {
           "moveId": "TACKLE",
-          "uses": 12018
+          "uses": 12020
         },
         {
           "moveId": "RAZOR_LEAF",
-          "uses": 7039
+          "uses": 7035
         },
         {
           "moveId": "FAIRY_WIND",
-          "uses": 31831
+          "uses": 31832
         }
       ],
       "chargedMoves": [
@@ -3889,7 +3889,7 @@
         },
         {
           "moveId": "PETAL_BLIZZARD",
-          "uses": 4265
+          "uses": 4264
         },
         {
           "moveId": "MOONBLAST",
@@ -4035,7 +4035,7 @@
   {
     "speciesId": "metagross_shadow",
     "speciesName": "Metagross (Shadow)",
-    "rating": 610,
+    "rating": 611,
     "matchups": [
       {
         "opponent": "florges",
@@ -4147,7 +4147,7 @@
   {
     "speciesId": "keldeo_ordinary",
     "speciesName": "Keldeo (Ordinary)",
-    "rating": 679,
+    "rating": 678,
     "matchups": [
       {
         "opponent": "primarina",
@@ -4255,7 +4255,7 @@
   {
     "speciesId": "xerneas",
     "speciesName": "Xerneas",
-    "rating": 663,
+    "rating": 662,
     "matchups": [
       {
         "opponent": "dragonite",
@@ -4353,7 +4353,7 @@
       84.7,
       59.4,
       83.5,
-      72.8,
+      72.6,
       91.5
     ],
     "stats": {
@@ -4361,6 +4361,106 @@
       "atk": 222.6,
       "def": 168,
       "hp": 219
+    }
+  },
+  {
+    "speciesId": "gholdengo",
+    "speciesName": "Gholdengo",
+    "rating": 658,
+    "matchups": [
+      {
+        "opponent": "dialga_origin",
+        "rating": 741
+      },
+      {
+        "opponent": "florges",
+        "rating": 631,
+        "opRating": 368
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 615
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 576
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 521
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "kyurem_black",
+        "rating": 149
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 168
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 354
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 392
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 410
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "HEX",
+          "uses": 37903
+        },
+        {
+          "moveId": "ASTONISH",
+          "uses": 33697
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SHADOW_BALL",
+          "uses": 25139
+        },
+        {
+          "moveId": "POWER_GEM",
+          "uses": 17911
+        },
+        {
+          "moveId": "FOCUS_BLAST",
+          "uses": 13472
+        },
+        {
+          "moveId": "DAZZLING_GLEAM",
+          "uses": 14900
+        }
+      ]
+    },
+    "moveset": [
+      "HEX",
+      "SHADOW_BALL",
+      "FOCUS_BLAST"
+    ],
+    "score": 83,
+    "scores": [
+      82.3,
+      77.6,
+      60.8,
+      87.2,
+      64.1,
+      93.9
+    ],
+    "stats": {
+      "product": 7034,
+      "atk": 224.3,
+      "def": 172.2,
+      "hp": 182
     }
   },
   {
@@ -4486,109 +4586,9 @@
     }
   },
   {
-    "speciesId": "gholdengo",
-    "speciesName": "Gholdengo",
-    "rating": 658,
-    "matchups": [
-      {
-        "opponent": "dialga_origin",
-        "rating": 741
-      },
-      {
-        "opponent": "florges",
-        "rating": 631,
-        "opRating": 368
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 615
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 576
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 521
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "kyurem_black",
-        "rating": 149
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 168
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 354
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 392
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 410
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "HEX",
-          "uses": 37903
-        },
-        {
-          "moveId": "ASTONISH",
-          "uses": 33697
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SHADOW_BALL",
-          "uses": 25139
-        },
-        {
-          "moveId": "POWER_GEM",
-          "uses": 17911
-        },
-        {
-          "moveId": "FOCUS_BLAST",
-          "uses": 13472
-        },
-        {
-          "moveId": "DAZZLING_GLEAM",
-          "uses": 14900
-        }
-      ]
-    },
-    "moveset": [
-      "HEX",
-      "SHADOW_BALL",
-      "FOCUS_BLAST"
-    ],
-    "score": 82.9,
-    "scores": [
-      82.3,
-      77.4,
-      60.8,
-      87.2,
-      64.1,
-      93.9
-    ],
-    "stats": {
-      "product": 7034,
-      "atk": 224.3,
-      "def": 172.2,
-      "hp": 182
-    }
-  },
-  {
     "speciesId": "kyurem",
     "speciesName": "Kyurem",
-    "rating": 688,
+    "rating": 687,
     "matchups": [
       {
         "opponent": "kyurem_white",
@@ -4678,7 +4678,7 @@
       69.4,
       76.1,
       86.1,
-      74.1,
+      73.9,
       96.4
     ],
     "stats": {
@@ -4796,7 +4796,7 @@
   {
     "speciesId": "tapu_bulu",
     "speciesName": "Tapu Bulu",
-    "rating": 612,
+    "rating": 611,
     "matchups": [
       {
         "opponent": "palkia_origin",
@@ -4848,11 +4848,11 @@
       "fastMoves": [
         {
           "moveId": "ROCK_SMASH",
-          "uses": 15793
+          "uses": 15796
         },
         {
           "moveId": "BULLET_SEED",
-          "uses": 55807
+          "uses": 55804
         }
       ],
       "chargedMoves": [
@@ -4874,7 +4874,7 @@
         },
         {
           "moveId": "DAZZLING_GLEAM",
-          "uses": 8206
+          "uses": 8207
         }
       ]
     },
@@ -5094,13 +5094,13 @@
       "DOUBLE_IRON_BASH",
       "THUNDERBOLT"
     ],
-    "score": 82.5,
+    "score": 82.6,
     "scores": [
       85.3,
       73.9,
       74.5,
       78.6,
-      79.8,
+      80,
       93.1
     ],
     "stats": {
@@ -5201,13 +5201,13 @@
       "DRAGON_CLAW",
       "SHADOW_SNEAK"
     ],
-    "score": 82.1,
+    "score": 82.2,
     "scores": [
       83.8,
-      70.4,
+      70.6,
       81.6,
       81.1,
-      77.8,
+      78.1,
       96.7
     ],
     "stats": {
@@ -5304,13 +5304,13 @@
       "SHADOW_BALL",
       "OMINOUS_WIND"
     ],
-    "score": 82.1,
+    "score": 82.2,
     "scores": [
-      81.1,
+      81.3,
       84.3,
       76.8,
       79.4,
-      80.9,
+      81.1,
       77.8
     ],
     "stats": {
@@ -5323,7 +5323,7 @@
   {
     "speciesId": "armarouge",
     "speciesName": "Armarouge",
-    "rating": 656,
+    "rating": 655,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -5752,10 +5752,10 @@
     ],
     "score": 81.3,
     "scores": [
-      87.5,
+      87.6,
       66.9,
       78.5,
-      81.6,
+      81.5,
       66.9,
       93
     ],
@@ -5769,7 +5769,7 @@
   {
     "speciesId": "genesect_chill",
     "speciesName": "Genesect (Chill)",
-    "rating": 668,
+    "rating": 667,
     "matchups": [
       {
         "opponent": "zygarde_complete",
@@ -5871,7 +5871,7 @@
   {
     "speciesId": "golisopod",
     "speciesName": "Golisopod",
-    "rating": 669,
+    "rating": 668,
     "matchups": [
       {
         "opponent": "rhyperior",
@@ -5985,7 +5985,7 @@
   {
     "speciesId": "mewtwo_shadow",
     "speciesName": "Mewtwo (Shadow)",
-    "rating": 711,
+    "rating": 712,
     "matchups": [
       {
         "opponent": "primarina",
@@ -6094,9 +6094,132 @@
     "scores": [
       82.9,
       79.6,
-      84.1,
-      86.7,
+      83.9,
+      86.5,
       45.2,
+      94.7
+    ],
+    "stats": {
+      "product": 8413,
+      "atk": 264.6,
+      "def": 165.5,
+      "hp": 192
+    }
+  },
+  {
+    "speciesId": "mewtwo",
+    "speciesName": "Mewtwo",
+    "rating": 692,
+    "matchups": [
+      {
+        "opponent": "kyogre",
+        "rating": 632,
+        "opRating": 367
+      },
+      {
+        "opponent": "necrozma_dawn_wings",
+        "rating": 622,
+        "opRating": 377
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 611,
+        "opRating": 388
+      },
+      {
+        "opponent": "florges",
+        "rating": 583,
+        "opRating": 416
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 505
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 323
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 343
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 360
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 360
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 415
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "PSYCHO_CUT",
+          "uses": 42453
+        },
+        {
+          "moveId": "CONFUSION",
+          "uses": 29147
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "THUNDERBOLT",
+          "uses": 7529
+        },
+        {
+          "moveId": "SHADOW_BALL",
+          "uses": 10502
+        },
+        {
+          "moveId": "RETURN",
+          "uses": 4282
+        },
+        {
+          "moveId": "PSYSTRIKE",
+          "uses": 19065
+        },
+        {
+          "moveId": "PSYCHIC",
+          "uses": 3161
+        },
+        {
+          "moveId": "ICE_BEAM",
+          "uses": 9236
+        },
+        {
+          "moveId": "HYPER_BEAM",
+          "uses": 1612
+        },
+        {
+          "moveId": "FOCUS_BLAST",
+          "uses": 7832
+        },
+        {
+          "moveId": "FLAMETHROWER",
+          "uses": 8402
+        }
+      ]
+    },
+    "moveset": [
+      "PSYCHO_CUT",
+      "PSYSTRIKE",
+      "SHADOW_BALL"
+    ],
+    "score": 80.6,
+    "scores": [
+      80.5,
+      75.6,
+      79.2,
+      85.6,
+      54.7,
       94.7
     ],
     "stats": {
@@ -6297,7 +6420,7 @@
     ],
     "score": 80.5,
     "scores": [
-      84.6,
+      84.4,
       64.2,
       73.8,
       89.7,
@@ -6312,132 +6435,9 @@
     }
   },
   {
-    "speciesId": "mewtwo",
-    "speciesName": "Mewtwo",
-    "rating": 692,
-    "matchups": [
-      {
-        "opponent": "kyogre",
-        "rating": 632,
-        "opRating": 367
-      },
-      {
-        "opponent": "necrozma_dawn_wings",
-        "rating": 622,
-        "opRating": 377
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 611,
-        "opRating": 388
-      },
-      {
-        "opponent": "florges",
-        "rating": 583,
-        "opRating": 416
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 505
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 323
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 343
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 360
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 360
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 415
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "PSYCHO_CUT",
-          "uses": 42453
-        },
-        {
-          "moveId": "CONFUSION",
-          "uses": 29147
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "THUNDERBOLT",
-          "uses": 7529
-        },
-        {
-          "moveId": "SHADOW_BALL",
-          "uses": 10502
-        },
-        {
-          "moveId": "RETURN",
-          "uses": 4282
-        },
-        {
-          "moveId": "PSYSTRIKE",
-          "uses": 19065
-        },
-        {
-          "moveId": "PSYCHIC",
-          "uses": 3161
-        },
-        {
-          "moveId": "ICE_BEAM",
-          "uses": 9236
-        },
-        {
-          "moveId": "HYPER_BEAM",
-          "uses": 1612
-        },
-        {
-          "moveId": "FOCUS_BLAST",
-          "uses": 7832
-        },
-        {
-          "moveId": "FLAMETHROWER",
-          "uses": 8402
-        }
-      ]
-    },
-    "moveset": [
-      "PSYCHO_CUT",
-      "PSYSTRIKE",
-      "SHADOW_BALL"
-    ],
-    "score": 80.5,
-    "scores": [
-      80.5,
-      75.6,
-      79.2,
-      85.6,
-      54.4,
-      94.7
-    ],
-    "stats": {
-      "product": 8413,
-      "atk": 264.6,
-      "def": 165.5,
-      "hp": 192
-    }
-  },
-  {
     "speciesId": "sneasler_shadow",
     "speciesName": "Sneasler (Shadow)",
-    "rating": 633,
+    "rating": 632,
     "matchups": [
       {
         "opponent": "kyurem_black",
@@ -6779,7 +6779,7 @@
   {
     "speciesId": "virizion",
     "speciesName": "Virizion",
-    "rating": 622,
+    "rating": 621,
     "matchups": [
       {
         "opponent": "primarina",
@@ -6887,7 +6887,7 @@
   {
     "speciesId": "excadrill_shadow",
     "speciesName": "Excadrill (Shadow)",
-    "rating": 588,
+    "rating": 589,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -7098,7 +7098,7 @@
       79.1,
       64.7,
       82.6,
-      63.2,
+      63.4,
       96.7
     ],
     "stats": {
@@ -7111,7 +7111,7 @@
   {
     "speciesId": "machamp_shadow",
     "speciesName": "Machamp (Shadow)",
-    "rating": 661,
+    "rating": 660,
     "matchups": [
       {
         "opponent": "kyurem_black",
@@ -7218,7 +7218,7 @@
     ],
     "score": 79.4,
     "scores": [
-      85,
+      84.9,
       65.1,
       75.4,
       88.7,
@@ -7235,7 +7235,7 @@
   {
     "speciesId": "conkeldurr_shadow",
     "speciesName": "Conkeldurr (Shadow)",
-    "rating": 618,
+    "rating": 617,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -7536,7 +7536,7 @@
     "score": 78.9,
     "scores": [
       76.3,
-      75.1,
+      75,
       67.1,
       84.7,
       55.1,
@@ -7640,7 +7640,7 @@
       69.4,
       68.8,
       78.7,
-      69.1,
+      69.3,
       79.6
     ],
     "stats": {
@@ -7739,10 +7739,10 @@
     "score": 78.6,
     "scores": [
       82.8,
-      74.2,
+      74.4,
       50.6,
       78,
-      58.4,
+      58.6,
       89.5
     ],
     "stats": {
@@ -7750,111 +7750,6 @@
       "atk": 224.3,
       "def": 179.8,
       "hp": 158
-    }
-  },
-  {
-    "speciesId": "baxcalibur",
-    "speciesName": "Baxcalibur",
-    "rating": 653,
-    "matchups": [
-      {
-        "opponent": "kyogre",
-        "rating": 729,
-        "opRating": 270
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 675
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 646,
-        "opRating": 353
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 634
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 512
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 225
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 263
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 289
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 388
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 445
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "ICE_FANG",
-          "uses": 36434
-        },
-        {
-          "moveId": "DRAGON_BREATH",
-          "uses": 35166
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "OUTRAGE",
-          "uses": 6188
-        },
-        {
-          "moveId": "ICY_WIND",
-          "uses": 9923
-        },
-        {
-          "moveId": "DRAGON_CLAW",
-          "uses": 22367
-        },
-        {
-          "moveId": "BLIZZARD",
-          "uses": 4481
-        },
-        {
-          "moveId": "AVALANCHE",
-          "uses": 28643
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_BREATH",
-      "AVALANCHE",
-      "DRAGON_CLAW"
-    ],
-    "score": 78.4,
-    "scores": [
-      77.8,
-      69.5,
-      66.4,
-      85.9,
-      54.4,
-      85.3
-    ],
-    "stats": {
-      "product": 7126,
-      "atk": 226,
-      "def": 153.7,
-      "hp": 205
     }
   },
   {
@@ -7952,7 +7847,7 @@
       72.7,
       67.8,
       79.9,
-      70.8,
+      71.1,
       89.3
     ],
     "stats": {
@@ -7963,9 +7858,114 @@
     }
   },
   {
+    "speciesId": "baxcalibur",
+    "speciesName": "Baxcalibur",
+    "rating": 652,
+    "matchups": [
+      {
+        "opponent": "kyogre",
+        "rating": 729,
+        "opRating": 270
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 675
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 646,
+        "opRating": 353
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 634
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 512
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 225
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 263
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 289
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 388
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 445
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "ICE_FANG",
+          "uses": 36434
+        },
+        {
+          "moveId": "DRAGON_BREATH",
+          "uses": 35166
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "OUTRAGE",
+          "uses": 6188
+        },
+        {
+          "moveId": "ICY_WIND",
+          "uses": 9923
+        },
+        {
+          "moveId": "DRAGON_CLAW",
+          "uses": 22367
+        },
+        {
+          "moveId": "BLIZZARD",
+          "uses": 4481
+        },
+        {
+          "moveId": "AVALANCHE",
+          "uses": 28643
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_BREATH",
+      "AVALANCHE",
+      "DRAGON_CLAW"
+    ],
+    "score": 78.3,
+    "scores": [
+      77.8,
+      69.4,
+      66.4,
+      85.9,
+      54.2,
+      85.3
+    ],
+    "stats": {
+      "product": 7126,
+      "atk": 226,
+      "def": 153.7,
+      "hp": 205
+    }
+  },
+  {
     "speciesId": "latios_shadow",
     "speciesName": "Latios (Shadow)",
-    "rating": 683,
+    "rating": 684,
     "matchups": [
       {
         "opponent": "ho_oh",
@@ -8183,111 +8183,6 @@
     }
   },
   {
-    "speciesId": "terrakion",
-    "speciesName": "Terrakion",
-    "rating": 665,
-    "matchups": [
-      {
-        "opponent": "kyurem_black",
-        "rating": 773
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 736
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 678,
-        "opRating": 321
-      },
-      {
-        "opponent": "necrozma_dusk_mane",
-        "rating": 651,
-        "opRating": 348
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 625
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "landorus_therian",
-        "rating": 282
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 350
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 466
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 479
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 492
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "ZEN_HEADBUTT",
-          "uses": 2683
-        },
-        {
-          "moveId": "SMACK_DOWN",
-          "uses": 21757
-        },
-        {
-          "moveId": "DOUBLE_KICK",
-          "uses": 47135
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SACRED_SWORD",
-          "uses": 25525
-        },
-        {
-          "moveId": "ROCK_SLIDE",
-          "uses": 15698
-        },
-        {
-          "moveId": "EARTHQUAKE",
-          "uses": 7040
-        },
-        {
-          "moveId": "CLOSE_COMBAT",
-          "uses": 23206
-        }
-      ]
-    },
-    "moveset": [
-      "DOUBLE_KICK",
-      "SACRED_SWORD",
-      "ROCK_SLIDE"
-    ],
-    "score": 78.3,
-    "scores": [
-      84.4,
-      63.7,
-      71.1,
-      83.2,
-      52.2,
-      94.9
-    ],
-    "stats": {
-      "product": 7557,
-      "atk": 231,
-      "def": 173.9,
-      "hp": 188
-    }
-  },
-  {
     "speciesId": "garchomp",
     "speciesName": "Garchomp",
     "rating": 608,
@@ -8397,6 +8292,111 @@
     }
   },
   {
+    "speciesId": "terrakion",
+    "speciesName": "Terrakion",
+    "rating": 664,
+    "matchups": [
+      {
+        "opponent": "kyurem_black",
+        "rating": 773
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 736
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 678,
+        "opRating": 321
+      },
+      {
+        "opponent": "necrozma_dusk_mane",
+        "rating": 651,
+        "opRating": 348
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 625
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "landorus_therian",
+        "rating": 282
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 350
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 466
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 479
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 492
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "ZEN_HEADBUTT",
+          "uses": 2683
+        },
+        {
+          "moveId": "SMACK_DOWN",
+          "uses": 21757
+        },
+        {
+          "moveId": "DOUBLE_KICK",
+          "uses": 47135
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SACRED_SWORD",
+          "uses": 25525
+        },
+        {
+          "moveId": "ROCK_SLIDE",
+          "uses": 15698
+        },
+        {
+          "moveId": "EARTHQUAKE",
+          "uses": 7040
+        },
+        {
+          "moveId": "CLOSE_COMBAT",
+          "uses": 23206
+        }
+      ]
+    },
+    "moveset": [
+      "DOUBLE_KICK",
+      "SACRED_SWORD",
+      "ROCK_SLIDE"
+    ],
+    "score": 78.2,
+    "scores": [
+      84.3,
+      63.6,
+      71.1,
+      83.2,
+      52,
+      94.9
+    ],
+    "stats": {
+      "product": 7557,
+      "atk": 231,
+      "def": 173.9,
+      "hp": 188
+    }
+  },
+  {
     "speciesId": "zapdos",
     "speciesName": "Zapdos",
     "rating": 673,
@@ -8494,7 +8494,7 @@
     "scores": [
       79,
       70.7,
-      66.8,
+      66.9,
       80.1,
       62.3,
       91.5
@@ -8509,7 +8509,7 @@
   {
     "speciesId": "swampert",
     "speciesName": "Swampert",
-    "rating": 605,
+    "rating": 604,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -8711,7 +8711,7 @@
       72.2,
       64.7,
       76.7,
-      69.3,
+      69.5,
       79.6
     ],
     "stats": {
@@ -8844,7 +8844,7 @@
   {
     "speciesId": "genesect_burn",
     "speciesName": "Genesect (Burn)",
-    "rating": 662,
+    "rating": 661,
     "matchups": [
       {
         "opponent": "kyurem_white",
@@ -9045,7 +9045,7 @@
       80.2,
       70,
       60.4,
-      79.6,
+      79.4,
       74.6,
       72.4
     ],
@@ -9059,7 +9059,7 @@
   {
     "speciesId": "zacian_hero",
     "speciesName": "Zacian (Hero)",
-    "rating": 645,
+    "rating": 644,
     "matchups": [
       {
         "opponent": "dragonite",
@@ -9170,7 +9170,7 @@
   {
     "speciesId": "kommo_o",
     "speciesName": "Kommo-o",
-    "rating": 604,
+    "rating": 603,
     "matchups": [
       {
         "opponent": "kyogre",
@@ -9268,7 +9268,7 @@
       68.6,
       81.2,
       51.3,
-      74.6,
+      74.5,
       55.7,
       100
     ],
@@ -9282,7 +9282,7 @@
   {
     "speciesId": "enamorus_incarnate",
     "speciesName": "Enamorus (Incarnate)",
-    "rating": 644,
+    "rating": 643,
     "matchups": [
       {
         "opponent": "dragonite",
@@ -9488,7 +9488,7 @@
   {
     "speciesId": "latios",
     "speciesName": "Latios",
-    "rating": 680,
+    "rating": 681,
     "matchups": [
       {
         "opponent": "kyogre",
@@ -9818,7 +9818,7 @@
       66.6,
       70.7,
       80.5,
-      56.8,
+      57.1,
       90.4
     ],
     "stats": {
@@ -9831,7 +9831,7 @@
   {
     "speciesId": "jirachi",
     "speciesName": "Jirachi",
-    "rating": 628,
+    "rating": 629,
     "matchups": [
       {
         "opponent": "kyurem_white",
@@ -10032,7 +10032,7 @@
   {
     "speciesId": "genesect",
     "speciesName": "Genesect",
-    "rating": 649,
+    "rating": 648,
     "matchups": [
       {
         "opponent": "kyurem_white",
@@ -10115,12 +10115,12 @@
       "MAGNET_BOMB",
       "TECHNO_BLAST_NORMAL"
     ],
-    "score": 75.6,
+    "score": 75.5,
     "scores": [
-      79.8,
+      79.6,
       68,
       49.5,
-      76.1,
+      76,
       56.6,
       89.5
     ],
@@ -10134,7 +10134,7 @@
   {
     "speciesId": "genesect_douse",
     "speciesName": "Genesect (Douse)",
-    "rating": 658,
+    "rating": 657,
     "matchups": [
       {
         "opponent": "kyurem_white",
@@ -10326,13 +10326,13 @@
       "WILD_CHARGE",
       "SHADOW_BALL"
     ],
-    "score": 75.3,
+    "score": 75.4,
     "scores": [
       75.3,
       76.5,
       58.3,
       79.3,
-      40.9,
+      41.1,
       98.5
     ],
     "stats": {
@@ -10551,7 +10551,7 @@
   {
     "speciesId": "pangoro",
     "speciesName": "Pangoro",
-    "rating": 663,
+    "rating": 662,
     "matchups": [
       {
         "opponent": "kyurem_black",
@@ -10760,7 +10760,7 @@
   {
     "speciesId": "excadrill",
     "speciesName": "Excadrill",
-    "rating": 585,
+    "rating": 586,
     "matchups": [
       {
         "opponent": "zacian_hero",
@@ -10975,7 +10975,7 @@
       67.8,
       42.4,
       75.7,
-      65.6,
+      65.8,
       95.7
     ],
     "stats": {
@@ -11084,7 +11084,7 @@
     "score": 74.5,
     "scores": [
       74.5,
-      69.7,
+      69.8,
       58.2,
       75.2,
       61.9,
@@ -11251,7 +11251,7 @@
     ],
     "score": 74.5,
     "scores": [
-      72.1,
+      72.2,
       71,
       66.8,
       74.4,
@@ -11588,7 +11588,7 @@
     ],
     "score": 74.2,
     "scores": [
-      75.1,
+      75.3,
       61.4,
       58.3,
       81.3,
@@ -11600,114 +11600,6 @@
       "atk": 199.1,
       "def": 142,
       "hp": 184
-    }
-  },
-  {
-    "speciesId": "avalugg_hisuian",
-    "speciesName": "Avalugg (Hisuian)",
-    "rating": 628,
-    "matchups": [
-      {
-        "opponent": "dragonite",
-        "rating": 770,
-        "opRating": 229
-      },
-      {
-        "opponent": "zygarde_complete",
-        "rating": 729,
-        "opRating": 270
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 641,
-        "opRating": 358
-      },
-      {
-        "opponent": "zacian_hero",
-        "rating": 636,
-        "opRating": 363
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 538,
-        "opRating": 461
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 213
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 277
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 412
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 479
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 479
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "TACKLE",
-          "uses": 18671
-        },
-        {
-          "moveId": "POWDER_SNOW",
-          "uses": 39517
-        },
-        {
-          "moveId": "BITE",
-          "uses": 13389
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "ROCK_SLIDE",
-          "uses": 19404
-        },
-        {
-          "moveId": "ICY_WIND",
-          "uses": 24574
-        },
-        {
-          "moveId": "CRUNCH",
-          "uses": 16650
-        },
-        {
-          "moveId": "BLIZZARD",
-          "uses": 11002
-        }
-      ]
-    },
-    "moveset": [
-      "POWDER_SNOW",
-      "ROCK_SLIDE",
-      "ICY_WIND"
-    ],
-    "score": 74.1,
-    "scores": [
-      75.4,
-      60.1,
-      65.1,
-      74.7,
-      66.7,
-      100
-    ],
-    "stats": {
-      "product": 7936,
-      "atk": 192.4,
-      "def": 212.5,
-      "hp": 194
     }
   },
   {
@@ -11813,6 +11705,114 @@
       "atk": 230.2,
       "def": 145.3,
       "hp": 172
+    }
+  },
+  {
+    "speciesId": "avalugg_hisuian",
+    "speciesName": "Avalugg (Hisuian)",
+    "rating": 628,
+    "matchups": [
+      {
+        "opponent": "dragonite",
+        "rating": 770,
+        "opRating": 229
+      },
+      {
+        "opponent": "zygarde_complete",
+        "rating": 729,
+        "opRating": 270
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 641,
+        "opRating": 358
+      },
+      {
+        "opponent": "zacian_hero",
+        "rating": 636,
+        "opRating": 363
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 538,
+        "opRating": 461
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 213
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 277
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 412
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 479
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 479
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "TACKLE",
+          "uses": 18671
+        },
+        {
+          "moveId": "POWDER_SNOW",
+          "uses": 39517
+        },
+        {
+          "moveId": "BITE",
+          "uses": 13389
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "ROCK_SLIDE",
+          "uses": 19404
+        },
+        {
+          "moveId": "ICY_WIND",
+          "uses": 24574
+        },
+        {
+          "moveId": "CRUNCH",
+          "uses": 16650
+        },
+        {
+          "moveId": "BLIZZARD",
+          "uses": 11002
+        }
+      ]
+    },
+    "moveset": [
+      "POWDER_SNOW",
+      "ROCK_SLIDE",
+      "ICY_WIND"
+    ],
+    "score": 74,
+    "scores": [
+      75.3,
+      59.9,
+      65.1,
+      74.7,
+      66.5,
+      100
+    ],
+    "stats": {
+      "product": 7936,
+      "atk": 192.4,
+      "def": 212.5,
+      "hp": 194
     }
   },
   {
@@ -12014,7 +12014,7 @@
     "score": 73.8,
     "scores": [
       76.8,
-      71.8,
+      71.9,
       54.1,
       77.1,
       48.1,
@@ -12232,7 +12232,7 @@
     "score": 73.4,
     "scores": [
       75.7,
-      68.4,
+      68.6,
       63.9,
       73.9,
       63.2,
@@ -12242,129 +12242,6 @@
       "product": 7011,
       "atk": 182.3,
       "def": 206.7,
-      "hp": 186
-    }
-  },
-  {
-    "speciesId": "machamp",
-    "speciesName": "Machamp",
-    "rating": 600,
-    "matchups": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 717
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 626
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 567
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 564
-      },
-      {
-        "opponent": "kyogre",
-        "rating": 524
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "palkia_origin",
-        "rating": 309
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 366
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 395
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 403
-      },
-      {
-        "opponent": "necrozma_dusk_mane",
-        "rating": 438
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "KARATE_CHOP",
-          "uses": 33560
-        },
-        {
-          "moveId": "COUNTER",
-          "uses": 17353
-        },
-        {
-          "moveId": "BULLET_PUNCH",
-          "uses": 20742
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SUBMISSION",
-          "uses": 2218
-        },
-        {
-          "moveId": "STONE_EDGE",
-          "uses": 7271
-        },
-        {
-          "moveId": "ROCK_SLIDE",
-          "uses": 6954
-        },
-        {
-          "moveId": "RETURN",
-          "uses": 3042
-        },
-        {
-          "moveId": "PAYBACK",
-          "uses": 6133
-        },
-        {
-          "moveId": "HEAVY_SLAM",
-          "uses": 4344
-        },
-        {
-          "moveId": "DYNAMIC_PUNCH",
-          "uses": 7537
-        },
-        {
-          "moveId": "CROSS_CHOP",
-          "uses": 15536
-        },
-        {
-          "moveId": "CLOSE_COMBAT",
-          "uses": 18664
-        }
-      ]
-    },
-    "moveset": [
-      "KARATE_CHOP",
-      "CROSS_CHOP",
-      "ROCK_SLIDE"
-    ],
-    "score": 73.2,
-    "scores": [
-      77.7,
-      56.1,
-      68.2,
-      80.7,
-      46.1,
-      92.7
-    ],
-    "stats": {
-      "product": 5690,
-      "atk": 209.2,
-      "def": 146.2,
       "hp": 186
     }
   },
@@ -12576,7 +12453,7 @@
     "score": 73.1,
     "scores": [
       74.8,
-      64.9,
+      65.1,
       57.2,
       74.4,
       62.3,
@@ -12590,9 +12467,132 @@
     }
   },
   {
+    "speciesId": "machamp",
+    "speciesName": "Machamp",
+    "rating": 600,
+    "matchups": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 717
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 626
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 567
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 564
+      },
+      {
+        "opponent": "kyogre",
+        "rating": 524
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "palkia_origin",
+        "rating": 309
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 366
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 395
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 403
+      },
+      {
+        "opponent": "necrozma_dusk_mane",
+        "rating": 438
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "KARATE_CHOP",
+          "uses": 33560
+        },
+        {
+          "moveId": "COUNTER",
+          "uses": 17353
+        },
+        {
+          "moveId": "BULLET_PUNCH",
+          "uses": 20742
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SUBMISSION",
+          "uses": 2218
+        },
+        {
+          "moveId": "STONE_EDGE",
+          "uses": 7271
+        },
+        {
+          "moveId": "ROCK_SLIDE",
+          "uses": 6954
+        },
+        {
+          "moveId": "RETURN",
+          "uses": 3042
+        },
+        {
+          "moveId": "PAYBACK",
+          "uses": 6133
+        },
+        {
+          "moveId": "HEAVY_SLAM",
+          "uses": 4344
+        },
+        {
+          "moveId": "DYNAMIC_PUNCH",
+          "uses": 7537
+        },
+        {
+          "moveId": "CROSS_CHOP",
+          "uses": 15536
+        },
+        {
+          "moveId": "CLOSE_COMBAT",
+          "uses": 18664
+        }
+      ]
+    },
+    "moveset": [
+      "KARATE_CHOP",
+      "CROSS_CHOP",
+      "ROCK_SLIDE"
+    ],
+    "score": 73.1,
+    "scores": [
+      77.7,
+      56.1,
+      68.2,
+      80.5,
+      46.1,
+      92.7
+    ],
+    "stats": {
+      "product": 5690,
+      "atk": 209.2,
+      "def": 146.2,
+      "hp": 186
+    }
+  },
+  {
     "speciesId": "mew",
     "speciesName": "Mew",
-    "rating": 653,
+    "rating": 654,
     "matchups": [
       {
         "opponent": "primarina",
@@ -12812,7 +12812,7 @@
     "score": 73.1,
     "scores": [
       74.5,
-      66.8,
+      66.9,
       69.3,
       73.5,
       61.7,
@@ -12935,7 +12935,7 @@
       66.3,
       70.7,
       76.5,
-      53.8,
+      54,
       98.5
     ],
     "stats": {
@@ -13051,7 +13051,7 @@
       77.1,
       52.8,
       59.6,
-      73.1,
+      73.3,
       61.4,
       97.5
     ],
@@ -13065,7 +13065,7 @@
   {
     "speciesId": "entei_shadow",
     "speciesName": "Entei (Shadow)",
-    "rating": 574,
+    "rating": 573,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -13180,7 +13180,7 @@
   {
     "speciesId": "moltres_shadow",
     "speciesName": "Moltres (Shadow)",
-    "rating": 555,
+    "rating": 554,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -13290,7 +13290,7 @@
   {
     "speciesId": "magnezone_shadow",
     "speciesName": "Magnezone (Shadow)",
-    "rating": 642,
+    "rating": 641,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -13498,7 +13498,7 @@
       70.9,
       59,
       71.6,
-      52.5,
+      52.7,
       98.5
     ],
     "stats": {
@@ -13619,7 +13619,7 @@
   {
     "speciesId": "togekiss",
     "speciesName": "Togekiss",
-    "rating": 561,
+    "rating": 560,
     "matchups": [
       {
         "opponent": "dragonite",
@@ -13779,7 +13779,7 @@
     "scores": [
       70.7,
       61.9,
-      49.7,
+      49.5,
       63,
       75.2,
       95.7
@@ -13909,6 +13909,114 @@
       "atk": 184.8,
       "def": 170.5,
       "hp": 178
+    }
+  },
+  {
+    "speciesId": "necrozma",
+    "speciesName": "Necrozma",
+    "rating": 596,
+    "matchups": [
+      {
+        "opponent": "solgaleo",
+        "rating": 701,
+        "opRating": 298
+      },
+      {
+        "opponent": "metagross",
+        "rating": 698,
+        "opRating": 301
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 640,
+        "opRating": 359
+      },
+      {
+        "opponent": "dragonite",
+        "rating": 507,
+        "opRating": 492
+      },
+      {
+        "opponent": "mewtwo",
+        "rating": 507,
+        "opRating": 492
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "kyurem_black",
+        "rating": 167
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 312
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 317
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 338
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 365
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "SHADOW_CLAW",
+          "uses": 30514
+        },
+        {
+          "moveId": "PSYCHO_CUT",
+          "uses": 24108
+        },
+        {
+          "moveId": "METAL_CLAW",
+          "uses": 16934
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "OUTRAGE",
+          "uses": 17852
+        },
+        {
+          "moveId": "IRON_HEAD",
+          "uses": 15712
+        },
+        {
+          "moveId": "FUTURE_SIGHT",
+          "uses": 17014
+        },
+        {
+          "moveId": "DARK_PULSE",
+          "uses": 21082
+        }
+      ]
+    },
+    "moveset": [
+      "SHADOW_CLAW",
+      "DARK_PULSE",
+      "OUTRAGE"
+    ],
+    "score": 72.2,
+    "scores": [
+      68.2,
+      67.1,
+      66,
+      78,
+      49.8,
+      90.5
+    ],
+    "stats": {
+      "product": 7731,
+      "atk": 223.5,
+      "def": 176.4,
+      "hp": 196
     }
   },
   {
@@ -14257,114 +14365,6 @@
     }
   },
   {
-    "speciesId": "necrozma",
-    "speciesName": "Necrozma",
-    "rating": 597,
-    "matchups": [
-      {
-        "opponent": "solgaleo",
-        "rating": 701,
-        "opRating": 298
-      },
-      {
-        "opponent": "metagross",
-        "rating": 698,
-        "opRating": 301
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 640,
-        "opRating": 359
-      },
-      {
-        "opponent": "dragonite",
-        "rating": 507,
-        "opRating": 492
-      },
-      {
-        "opponent": "mewtwo",
-        "rating": 507,
-        "opRating": 492
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "kyurem_black",
-        "rating": 167
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 312
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 317
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 338
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 365
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "SHADOW_CLAW",
-          "uses": 30514
-        },
-        {
-          "moveId": "PSYCHO_CUT",
-          "uses": 24108
-        },
-        {
-          "moveId": "METAL_CLAW",
-          "uses": 16934
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "OUTRAGE",
-          "uses": 17852
-        },
-        {
-          "moveId": "IRON_HEAD",
-          "uses": 15712
-        },
-        {
-          "moveId": "FUTURE_SIGHT",
-          "uses": 17014
-        },
-        {
-          "moveId": "DARK_PULSE",
-          "uses": 21082
-        }
-      ]
-    },
-    "moveset": [
-      "SHADOW_CLAW",
-      "DARK_PULSE",
-      "OUTRAGE"
-    ],
-    "score": 72.1,
-    "scores": [
-      68.2,
-      67.1,
-      66,
-      77.8,
-      49.8,
-      90.5
-    ],
-    "stats": {
-      "product": 7731,
-      "atk": 223.5,
-      "def": 176.4,
-      "hp": 196
-    }
-  },
-  {
     "speciesId": "victini",
     "speciesName": "Victini",
     "rating": 563,
@@ -14456,7 +14456,7 @@
       72.4,
       52.5,
       68.2,
-      56.8,
+      57.1,
       100
     ],
     "stats": {
@@ -14568,9 +14568,109 @@
     }
   },
   {
+    "speciesId": "hoopa_unbound",
+    "speciesName": "Hoopa (Unbound)",
+    "rating": 521,
+    "matchups": [
+      {
+        "opponent": "necrozma_dawn_wings",
+        "rating": 796,
+        "opRating": 203
+      },
+      {
+        "opponent": "primarina",
+        "rating": 614,
+        "opRating": 385
+      },
+      {
+        "opponent": "kyogre",
+        "rating": 582,
+        "opRating": 417
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 519,
+        "opRating": 480
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 503,
+        "opRating": 496
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "kyurem_black",
+        "rating": 240
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 260
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 263
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 291
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 384
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "CONFUSION",
+          "uses": 32607
+        },
+        {
+          "moveId": "ASTONISH",
+          "uses": 38993
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SHADOW_BALL",
+          "uses": 24380
+        },
+        {
+          "moveId": "PSYCHIC",
+          "uses": 17867
+        },
+        {
+          "moveId": "DARK_PULSE",
+          "uses": 29196
+        }
+      ]
+    },
+    "moveset": [
+      "ASTONISH",
+      "DARK_PULSE",
+      "SHADOW_BALL"
+    ],
+    "score": 72,
+    "scores": [
+      62.9,
+      66.3,
+      53.2,
+      80.8,
+      45.5,
+      95.9
+    ],
+    "stats": {
+      "product": 7445,
+      "atk": 273.9,
+      "def": 173.1,
+      "hp": 157
+    }
+  },
+  {
     "speciesId": "hariyama_shadow",
     "speciesName": "Hariyama (Shadow)",
-    "rating": 550,
+    "rating": 549,
     "matchups": [
       {
         "opponent": "zamazenta_crowned_shield",
@@ -14681,109 +14781,9 @@
     }
   },
   {
-    "speciesId": "hoopa_unbound",
-    "speciesName": "Hoopa (Unbound)",
-    "rating": 521,
-    "matchups": [
-      {
-        "opponent": "necrozma_dawn_wings",
-        "rating": 796,
-        "opRating": 203
-      },
-      {
-        "opponent": "primarina",
-        "rating": 614,
-        "opRating": 385
-      },
-      {
-        "opponent": "kyogre",
-        "rating": 582,
-        "opRating": 417
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 519,
-        "opRating": 480
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 503,
-        "opRating": 496
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "kyurem_black",
-        "rating": 240
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 260
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 263
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 291
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 384
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "CONFUSION",
-          "uses": 32607
-        },
-        {
-          "moveId": "ASTONISH",
-          "uses": 38993
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SHADOW_BALL",
-          "uses": 24380
-        },
-        {
-          "moveId": "PSYCHIC",
-          "uses": 17867
-        },
-        {
-          "moveId": "DARK_PULSE",
-          "uses": 29196
-        }
-      ]
-    },
-    "moveset": [
-      "ASTONISH",
-      "DARK_PULSE",
-      "SHADOW_BALL"
-    ],
-    "score": 71.9,
-    "scores": [
-      62.8,
-      66.3,
-      53.2,
-      80.8,
-      45.5,
-      95.9
-    ],
-    "stats": {
-      "product": 7445,
-      "atk": 273.9,
-      "def": 173.1,
-      "hp": 157
-    }
-  },
-  {
     "speciesId": "mamoswine",
     "speciesName": "Mamoswine",
-    "rating": 596,
+    "rating": 595,
     "matchups": [
       {
         "opponent": "necrozma_dusk_mane",
@@ -15128,7 +15128,7 @@
   {
     "speciesId": "donphan_shadow",
     "speciesName": "Donphan (Shadow)",
-    "rating": 605,
+    "rating": 604,
     "matchups": [
       {
         "opponent": "necrozma_dusk_mane",
@@ -15336,7 +15336,7 @@
       77.1,
       56.9,
       59.4,
-      73.3,
+      73.5,
       48.1,
       92.4
     ],
@@ -15446,7 +15446,7 @@
     "scores": [
       72.2,
       65.6,
-      42.4,
+      42.6,
       77.6,
       59.5,
       69.2
@@ -15550,7 +15550,7 @@
     "score": 71.1,
     "scores": [
       70.7,
-      60.4,
+      60.5,
       49.3,
       70.8,
       68.4,
@@ -16322,7 +16322,7 @@
     ],
     "score": 70.5,
     "scores": [
-      78.1,
+      78.3,
       56,
       65,
       79.5,
@@ -16446,7 +16446,7 @@
   {
     "speciesId": "electivire_shadow",
     "speciesName": "Electivire (Shadow)",
-    "rating": 614,
+    "rating": 613,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -16655,7 +16655,7 @@
       71.2,
       64,
       70.3,
-      46.1,
+      45.9,
       92.5
     ],
     "stats": {
@@ -16874,9 +16874,120 @@
     }
   },
   {
+    "speciesId": "zygarde",
+    "speciesName": "Zygarde (50% Forme)",
+    "rating": 637,
+    "matchups": [
+      {
+        "opponent": "melmetal",
+        "rating": 659,
+        "opRating": 340
+      },
+      {
+        "opponent": "solgaleo",
+        "rating": 643,
+        "opRating": 356
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 570
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 518,
+        "opRating": 481
+      },
+      {
+        "opponent": "kyogre",
+        "rating": 502,
+        "opRating": 497
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 98
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 132
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 347
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 353
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 373
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "ZEN_HEADBUTT",
+          "uses": 5194
+        },
+        {
+          "moveId": "DRAGON_TAIL",
+          "uses": 47352
+        },
+        {
+          "moveId": "BITE",
+          "uses": 19044
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "OUTRAGE",
+          "uses": 17785
+        },
+        {
+          "moveId": "HYPER_BEAM",
+          "uses": 6064
+        },
+        {
+          "moveId": "EARTHQUAKE",
+          "uses": 15938
+        },
+        {
+          "moveId": "CRUNCH",
+          "uses": 17033
+        },
+        {
+          "moveId": "BULLDOZE",
+          "uses": 14924
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_TAIL",
+      "CRUNCH",
+      "EARTHQUAKE"
+    ],
+    "score": 69.9,
+    "scores": [
+      68.6,
+      69.5,
+      42.7,
+      69.5,
+      61.9,
+      86.4
+    ],
+    "stats": {
+      "product": 8098,
+      "atk": 183.1,
+      "def": 207.5,
+      "hp": 213
+    }
+  },
+  {
     "speciesId": "aurorus_shadow",
     "speciesName": "Aurorus (Shadow)",
-    "rating": 593,
+    "rating": 591,
     "matchups": [
       {
         "opponent": "landorus_therian",
@@ -16929,15 +17040,15 @@
       "fastMoves": [
         {
           "moveId": "ROCK_THROW",
-          "uses": 19424
+          "uses": 19428
         },
         {
           "moveId": "POWDER_SNOW",
-          "uses": 36670
+          "uses": 36666
         },
         {
           "moveId": "FROST_BREATH",
-          "uses": 15545
+          "uses": 15544
         }
       ],
       "chargedMoves": [
@@ -16967,7 +17078,7 @@
         },
         {
           "moveId": "ANCIENT_POWER",
-          "uses": 10954
+          "uses": 10955
         }
       ]
     },
@@ -16990,6 +17101,120 @@
       "atk": 168.9,
       "def": 149.5,
       "hp": 235
+    }
+  },
+  {
+    "speciesId": "chandelure",
+    "speciesName": "Chandelure",
+    "rating": 561,
+    "matchups": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 767
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 767
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 676,
+        "opRating": 323
+      },
+      {
+        "opponent": "florges",
+        "rating": 630,
+        "opRating": 369
+      },
+      {
+        "opponent": "necrozma_dusk_mane",
+        "rating": 538,
+        "opRating": 461
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "palkia_origin",
+        "rating": 119
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 127
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 260
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 266
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 401
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "INCINERATE",
+          "uses": 31407
+        },
+        {
+          "moveId": "HEX",
+          "uses": 24712
+        },
+        {
+          "moveId": "FIRE_SPIN",
+          "uses": 15481
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SHADOW_BALL",
+          "uses": 19053
+        },
+        {
+          "moveId": "RETURN",
+          "uses": 6556
+        },
+        {
+          "moveId": "POLTERGEIST",
+          "uses": 6177
+        },
+        {
+          "moveId": "OVERHEAT",
+          "uses": 12382
+        },
+        {
+          "moveId": "FLAME_CHARGE",
+          "uses": 16138
+        },
+        {
+          "moveId": "ENERGY_BALL",
+          "uses": 11263
+        }
+      ]
+    },
+    "moveset": [
+      "INCINERATE",
+      "SHADOW_BALL",
+      "FLAME_CHARGE"
+    ],
+    "score": 69.8,
+    "scores": [
+      71.5,
+      66,
+      41,
+      70.1,
+      54.4,
+      85.8
+    ],
+    "stats": {
+      "product": 5649,
+      "atk": 240.3,
+      "def": 165.5,
+      "hp": 142
     }
   },
   {
@@ -17189,7 +17414,7 @@
     "scores": [
       73.3,
       59,
-      61,
+      60.8,
       79.4,
       33.6,
       82.1
@@ -17199,231 +17424,6 @@
       "atk": 220.9,
       "def": 160.4,
       "hp": 145
-    }
-  },
-  {
-    "speciesId": "zygarde",
-    "speciesName": "Zygarde (50% Forme)",
-    "rating": 637,
-    "matchups": [
-      {
-        "opponent": "melmetal",
-        "rating": 659,
-        "opRating": 340
-      },
-      {
-        "opponent": "solgaleo",
-        "rating": 643,
-        "opRating": 356
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 570
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 518,
-        "opRating": 481
-      },
-      {
-        "opponent": "kyogre",
-        "rating": 502,
-        "opRating": 497
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 98
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 132
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 347
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 353
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 373
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "ZEN_HEADBUTT",
-          "uses": 5194
-        },
-        {
-          "moveId": "DRAGON_TAIL",
-          "uses": 47352
-        },
-        {
-          "moveId": "BITE",
-          "uses": 19044
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "OUTRAGE",
-          "uses": 17785
-        },
-        {
-          "moveId": "HYPER_BEAM",
-          "uses": 6064
-        },
-        {
-          "moveId": "EARTHQUAKE",
-          "uses": 15938
-        },
-        {
-          "moveId": "CRUNCH",
-          "uses": 17033
-        },
-        {
-          "moveId": "BULLDOZE",
-          "uses": 14924
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_TAIL",
-      "CRUNCH",
-      "EARTHQUAKE"
-    ],
-    "score": 69.8,
-    "scores": [
-      68.5,
-      69.5,
-      42.7,
-      69.5,
-      61.9,
-      86.4
-    ],
-    "stats": {
-      "product": 8098,
-      "atk": 183.1,
-      "def": 207.5,
-      "hp": 213
-    }
-  },
-  {
-    "speciesId": "chandelure",
-    "speciesName": "Chandelure",
-    "rating": 562,
-    "matchups": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 767
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 767
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 676,
-        "opRating": 323
-      },
-      {
-        "opponent": "florges",
-        "rating": 630,
-        "opRating": 369
-      },
-      {
-        "opponent": "necrozma_dusk_mane",
-        "rating": 538,
-        "opRating": 461
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "palkia_origin",
-        "rating": 119
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 127
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 260
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 266
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 401
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "INCINERATE",
-          "uses": 31407
-        },
-        {
-          "moveId": "HEX",
-          "uses": 24712
-        },
-        {
-          "moveId": "FIRE_SPIN",
-          "uses": 15481
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SHADOW_BALL",
-          "uses": 19053
-        },
-        {
-          "moveId": "RETURN",
-          "uses": 6556
-        },
-        {
-          "moveId": "POLTERGEIST",
-          "uses": 6177
-        },
-        {
-          "moveId": "OVERHEAT",
-          "uses": 12382
-        },
-        {
-          "moveId": "FLAME_CHARGE",
-          "uses": 16138
-        },
-        {
-          "moveId": "ENERGY_BALL",
-          "uses": 11263
-        }
-      ]
-    },
-    "moveset": [
-      "INCINERATE",
-      "SHADOW_BALL",
-      "FLAME_CHARGE"
-    ],
-    "score": 69.7,
-    "scores": [
-      71.5,
-      66,
-      41,
-      70.1,
-      54.2,
-      85.8
-    ],
-    "stats": {
-      "product": 5649,
-      "atk": 240.3,
-      "def": 165.5,
-      "hp": 142
     }
   },
   {
@@ -17643,7 +17643,7 @@
   {
     "speciesId": "tapu_koko",
     "speciesName": "Tapu Koko",
-    "rating": 560,
+    "rating": 559,
     "matchups": [
       {
         "opponent": "dragonite",
@@ -17749,7 +17749,7 @@
   {
     "speciesId": "salamence",
     "speciesName": "Salamence",
-    "rating": 599,
+    "rating": 598,
     "matchups": [
       {
         "opponent": "garchomp",
@@ -17851,7 +17851,7 @@
       66.8,
       68.6,
       45.9,
-      69.7,
+      69.6,
       55.3,
       93.9
     ],
@@ -17979,7 +17979,7 @@
       58.9,
       51.1,
       72.4,
-      59.9,
+      60.1,
       78.3
     ],
     "stats": {
@@ -18096,7 +18096,7 @@
       73,
       48.8,
       51.2,
-      65.6,
+      65.5,
       67.3,
       85.6
     ],
@@ -18220,7 +18220,7 @@
   {
     "speciesId": "avalugg",
     "speciesName": "Avalugg",
-    "rating": 563,
+    "rating": 562,
     "matchups": [
       {
         "opponent": "landorus_therian",
@@ -18552,7 +18552,7 @@
   {
     "speciesId": "mewtwo_armored",
     "speciesName": "Mewtwo (Armored)",
-    "rating": 601,
+    "rating": 602,
     "matchups": [
       {
         "opponent": "tapu_bulu",
@@ -18864,115 +18864,6 @@
     }
   },
   {
-    "speciesId": "darmanitan_standard",
-    "speciesName": "Darmanitan (Standard)",
-    "rating": 545,
-    "matchups": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 778
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 778
-      },
-      {
-        "opponent": "necrozma_dusk_mane",
-        "rating": 716,
-        "opRating": 283
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 685,
-        "opRating": 314
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 545
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "rhyperior",
-        "rating": 96
-      },
-      {
-        "opponent": "kyogre",
-        "rating": 100
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 119
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 238
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 450
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "TACKLE",
-          "uses": 12943
-        },
-        {
-          "moveId": "INCINERATE",
-          "uses": 39228
-        },
-        {
-          "moveId": "FIRE_FANG",
-          "uses": 19552
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "ROCK_SLIDE",
-          "uses": 19024
-        },
-        {
-          "moveId": "RETURN",
-          "uses": 8727
-        },
-        {
-          "moveId": "PSYCHIC",
-          "uses": 9650
-        },
-        {
-          "moveId": "OVERHEAT",
-          "uses": 19853
-        },
-        {
-          "moveId": "FOCUS_BLAST",
-          "uses": 14391
-        }
-      ]
-    },
-    "moveset": [
-      "INCINERATE",
-      "ROCK_SLIDE",
-      "OVERHEAT"
-    ],
-    "score": 68.6,
-    "scores": [
-      75.6,
-      61.3,
-      52.7,
-      77.1,
-      42.8,
-      74.4
-    ],
-    "stats": {
-      "product": 5267,
-      "atk": 233.6,
-      "def": 108.3,
-      "hp": 208
-    }
-  },
-  {
     "speciesId": "charizard_shadow",
     "speciesName": "Charizard (Shadow)",
     "rating": 511,
@@ -19078,13 +18969,13 @@
       "BLAST_BURN",
       "DRAGON_CLAW"
     ],
-    "score": 68.5,
+    "score": 68.6,
     "scores": [
       70.4,
       57.2,
       60.5,
       84.3,
-      40,
+      40.2,
       71.7
     ],
     "stats": {
@@ -19092,6 +18983,115 @@
       "atk": 199.9,
       "def": 157.9,
       "hp": 168
+    }
+  },
+  {
+    "speciesId": "darmanitan_standard",
+    "speciesName": "Darmanitan (Standard)",
+    "rating": 545,
+    "matchups": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 778
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 778
+      },
+      {
+        "opponent": "necrozma_dusk_mane",
+        "rating": 716,
+        "opRating": 283
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 685,
+        "opRating": 314
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 545
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "rhyperior",
+        "rating": 96
+      },
+      {
+        "opponent": "kyogre",
+        "rating": 100
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 119
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 238
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 450
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "TACKLE",
+          "uses": 12943
+        },
+        {
+          "moveId": "INCINERATE",
+          "uses": 39228
+        },
+        {
+          "moveId": "FIRE_FANG",
+          "uses": 19552
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "ROCK_SLIDE",
+          "uses": 19024
+        },
+        {
+          "moveId": "RETURN",
+          "uses": 8727
+        },
+        {
+          "moveId": "PSYCHIC",
+          "uses": 9650
+        },
+        {
+          "moveId": "OVERHEAT",
+          "uses": 19853
+        },
+        {
+          "moveId": "FOCUS_BLAST",
+          "uses": 14391
+        }
+      ]
+    },
+    "moveset": [
+      "INCINERATE",
+      "ROCK_SLIDE",
+      "OVERHEAT"
+    ],
+    "score": 68.6,
+    "scores": [
+      75.4,
+      61.3,
+      52.7,
+      77.1,
+      42.8,
+      74.4
+    ],
+    "stats": {
+      "product": 5267,
+      "atk": 233.6,
+      "def": 108.3,
+      "hp": 208
     }
   },
   {
@@ -19213,7 +19213,7 @@
   {
     "speciesId": "haxorus",
     "speciesName": "Haxorus",
-    "rating": 638,
+    "rating": 637,
     "matchups": [
       {
         "opponent": "giratina_origin",
@@ -19304,7 +19304,7 @@
     "score": 68.4,
     "scores": [
       70.1,
-      60.7,
+      60.8,
       50.2,
       70.6,
       50.3,
@@ -19417,7 +19417,7 @@
     "score": 68.2,
     "scores": [
       70.1,
-      57.5,
+      57.3,
       53.4,
       70.9,
       50.5,
@@ -19433,7 +19433,7 @@
   {
     "speciesId": "darmanitan_standard_shadow",
     "speciesName": "Darmanitan (Standard) (Shadow)",
-    "rating": 533,
+    "rating": 532,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -19997,7 +19997,7 @@
     ],
     "score": 67.5,
     "scores": [
-      69.7,
+      69.5,
       57.9,
       57.2,
       75,
@@ -20399,15 +20399,15 @@
       "fastMoves": [
         {
           "moveId": "VINE_WHIP",
-          "uses": 44433
+          "uses": 44430
         },
         {
           "moveId": "SMACK_DOWN",
-          "uses": 18832
+          "uses": 18840
         },
         {
           "moveId": "LOW_KICK",
-          "uses": 8304
+          "uses": 8300
         }
       ],
       "chargedMoves": [
@@ -20417,7 +20417,7 @@
         },
         {
           "moveId": "SUPER_POWER",
-          "uses": 24675
+          "uses": 24674
         },
         {
           "moveId": "SOLAR_BEAM",
@@ -20429,11 +20429,11 @@
         },
         {
           "moveId": "FRENZY_PLANT",
-          "uses": 22604
+          "uses": 22605
         },
         {
           "moveId": "ENERGY_BALL",
-          "uses": 4326
+          "uses": 4325
         }
       ]
     },
@@ -20572,7 +20572,7 @@
   {
     "speciesId": "tyranitar",
     "speciesName": "Tyranitar",
-    "rating": 593,
+    "rating": 592,
     "matchups": [
       {
         "opponent": "necrozma_dawn_wings",
@@ -20667,7 +20667,7 @@
     "scores": [
       68,
       60.4,
-      45.1,
+      45.2,
       68,
       56,
       89.4
@@ -21007,7 +21007,7 @@
     ],
     "score": 66.8,
     "scores": [
-      67.3,
+      67.4,
       60.5,
       55.8,
       63.6,
@@ -21114,7 +21114,7 @@
       66.9,
       52.5,
       71,
-      38.5,
+      38.7,
       81.9
     ],
     "stats": {
@@ -21713,13 +21713,13 @@
       "BRUTAL_SWING",
       "DRAGON_CLAW"
     ],
-    "score": 65.7,
+    "score": 65.8,
     "scores": [
-      67.4,
-      56,
+      67.6,
+      56.1,
       47.2,
       64.1,
-      55.3,
+      55.5,
       100
     ],
     "stats": {
@@ -21786,15 +21786,15 @@
       "fastMoves": [
         {
           "moveId": "ZEN_HEADBUTT",
-          "uses": 6751
+          "uses": 6750
         },
         {
           "moveId": "VINE_WHIP",
-          "uses": 49541
+          "uses": 49536
         },
         {
           "moveId": "ROCK_SMASH",
-          "uses": 15267
+          "uses": 15272
         }
       ],
       "chargedMoves": [
@@ -21804,7 +21804,7 @@
         },
         {
           "moveId": "LEAF_BLADE",
-          "uses": 46021
+          "uses": 46022
         },
         {
           "moveId": "BRICK_BREAK",
@@ -22160,7 +22160,7 @@
     "scores": [
       59.4,
       66,
-      43.3,
+      43.1,
       67.4,
       42,
       93.5
@@ -22285,7 +22285,7 @@
       70.3,
       56.1,
       49.5,
-      75.2,
+      75.1,
       40.9,
       68.1
     ],
@@ -22410,7 +22410,7 @@
   {
     "speciesId": "samurott",
     "speciesName": "Samurott",
-    "rating": 595,
+    "rating": 594,
     "matchups": [
       {
         "opponent": "rhyperior",
@@ -22642,7 +22642,7 @@
   {
     "speciesId": "scizor",
     "speciesName": "Scizor",
-    "rating": 594,
+    "rating": 593,
     "matchups": [
       {
         "opponent": "mewtwo",
@@ -22866,7 +22866,7 @@
   {
     "speciesId": "krookodile",
     "speciesName": "Krookodile",
-    "rating": 525,
+    "rating": 524,
     "matchups": [
       {
         "opponent": "zacian_crowned_sword",
@@ -22953,10 +22953,10 @@
     "score": 64.7,
     "scores": [
       67.1,
-      54.4,
+      54.6,
       45.6,
       67,
-      48.1,
+      48.3,
       89.5
     ],
     "stats": {
@@ -23060,7 +23060,7 @@
       58.5,
       54,
       73.2,
-      30.1,
+      30.4,
       87.7
     ],
     "stats": {
@@ -23514,13 +23514,13 @@
       "CLOSE_COMBAT",
       "SWIFT"
     ],
-    "score": 64.3,
+    "score": 64.4,
     "scores": [
       65.5,
       50.9,
       55.8,
       72.5,
-      35.8,
+      36.1,
       86.5
     ],
     "stats": {
@@ -23541,9 +23541,9 @@
         "opRating": 220
       },
       {
-        "opponent": "machamp_shadow",
-        "rating": 648,
-        "opRating": 351
+        "opponent": "gallade_shadow",
+        "rating": 723,
+        "opRating": 276
       },
       {
         "opponent": "kyogre",
@@ -23738,130 +23738,19 @@
       "ICICLE_SPEAR",
       "EARTHQUAKE"
     ],
-    "score": 64.1,
+    "score": 64.2,
     "scores": [
       66.2,
       54.6,
       53.4,
       68.6,
-      36.9,
+      37.1,
       94.3
     ],
     "stats": {
       "product": 5712,
       "atk": 165.5,
       "def": 160.4,
-      "hp": 215
-    }
-  },
-  {
-    "speciesId": "emboar_shadow",
-    "speciesName": "Emboar (Shadow)",
-    "rating": 464,
-    "matchups": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 737
-      },
-      {
-        "opponent": "metagross",
-        "rating": 725,
-        "opRating": 274
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 665,
-        "opRating": 334
-      },
-      {
-        "opponent": "melmetal",
-        "rating": 537,
-        "opRating": 462
-      },
-      {
-        "opponent": "necrozma_dusk_mane",
-        "rating": 506,
-        "opRating": 493
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "palkia_origin",
-        "rating": 108
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 114
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 250
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 430
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 476
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "LOW_KICK",
-          "uses": 10944
-        },
-        {
-          "moveId": "EMBER",
-          "uses": 60656
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "ROCK_SLIDE",
-          "uses": 16332
-        },
-        {
-          "moveId": "HEAT_WAVE",
-          "uses": 2206
-        },
-        {
-          "moveId": "FRUSTRATION",
-          "uses": 0
-        },
-        {
-          "moveId": "FOCUS_BLAST",
-          "uses": 15633
-        },
-        {
-          "moveId": "FLAME_CHARGE",
-          "uses": 8088
-        },
-        {
-          "moveId": "BLAST_BURN",
-          "uses": 29382
-        }
-      ]
-    },
-    "moveset": [
-      "EMBER",
-      "BLAST_BURN",
-      "ROCK_SLIDE"
-    ],
-    "score": 64,
-    "scores": [
-      58.5,
-      51.4,
-      47,
-      75.9,
-      37.8,
-      79.3
-    ],
-    "stats": {
-      "product": 5389,
-      "atk": 210,
-      "def": 119.3,
       "hp": 215
     }
   },
@@ -23962,7 +23851,7 @@
     "score": 64,
     "scores": [
       68.8,
-      46.7,
+      46.8,
       47.7,
       65.7,
       46.6,
@@ -24076,6 +23965,117 @@
     }
   },
   {
+    "speciesId": "emboar_shadow",
+    "speciesName": "Emboar (Shadow)",
+    "rating": 464,
+    "matchups": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 737
+      },
+      {
+        "opponent": "metagross",
+        "rating": 725,
+        "opRating": 274
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 665,
+        "opRating": 334
+      },
+      {
+        "opponent": "melmetal",
+        "rating": 537,
+        "opRating": 462
+      },
+      {
+        "opponent": "necrozma_dusk_mane",
+        "rating": 506,
+        "opRating": 493
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "palkia_origin",
+        "rating": 108
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 114
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 250
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 430
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 476
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "LOW_KICK",
+          "uses": 10944
+        },
+        {
+          "moveId": "EMBER",
+          "uses": 60656
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "ROCK_SLIDE",
+          "uses": 16332
+        },
+        {
+          "moveId": "HEAT_WAVE",
+          "uses": 2206
+        },
+        {
+          "moveId": "FRUSTRATION",
+          "uses": 0
+        },
+        {
+          "moveId": "FOCUS_BLAST",
+          "uses": 15633
+        },
+        {
+          "moveId": "FLAME_CHARGE",
+          "uses": 8088
+        },
+        {
+          "moveId": "BLAST_BURN",
+          "uses": 29382
+        }
+      ]
+    },
+    "moveset": [
+      "EMBER",
+      "BLAST_BURN",
+      "ROCK_SLIDE"
+    ],
+    "score": 63.9,
+    "scores": [
+      58.5,
+      51.4,
+      47,
+      75.8,
+      37.8,
+      79.3
+    ],
+    "stats": {
+      "product": 5389,
+      "atk": 210,
+      "def": 119.3,
+      "hp": 215
+    }
+  },
+  {
     "speciesId": "incineroar",
     "speciesName": "Incineroar",
     "rating": 543,
@@ -24175,10 +24175,10 @@
       "BLAST_BURN",
       "DARKEST_LARIAT"
     ],
-    "score": 63.8,
+    "score": 63.9,
     "scores": [
       61.1,
-      65.4,
+      65.6,
       39.8,
       64.8,
       39.6,
@@ -24518,7 +24518,7 @@
       61.6,
       49.7,
       61,
-      50.1,
+      50.3,
       92.2
     ],
     "stats": {
@@ -24745,7 +24745,7 @@
     ],
     "score": 63.3,
     "scores": [
-      63.5,
+      63.4,
       54.6,
       40.8,
       59.2,
@@ -24762,7 +24762,7 @@
   {
     "speciesId": "decidueye",
     "speciesName": "Decidueye",
-    "rating": 529,
+    "rating": 528,
     "matchups": [
       {
         "opponent": "primarina",
@@ -24969,7 +24969,7 @@
     ],
     "score": 63.1,
     "scores": [
-      62.1,
+      62.3,
       63,
       53.3,
       64.5,
@@ -25509,9 +25509,9 @@
         "opRating": 328
       },
       {
-        "opponent": "rhyperior_shadow",
-        "rating": 626,
-        "opRating": 373
+        "opponent": "groudon",
+        "rating": 619,
+        "opRating": 380
       },
       {
         "opponent": "landorus_therian",
@@ -25714,7 +25714,7 @@
   {
     "speciesId": "articuno",
     "speciesName": "Articuno",
-    "rating": 515,
+    "rating": 514,
     "matchups": [
       {
         "opponent": "tapu_bulu",
@@ -26053,7 +26053,7 @@
   {
     "speciesId": "empoleon_shadow",
     "speciesName": "Empoleon (Shadow)",
-    "rating": 528,
+    "rating": 529,
     "matchups": [
       {
         "opponent": "nihilego",
@@ -26152,7 +26152,7 @@
     ],
     "score": 61.5,
     "scores": [
-      58.7,
+      58.8,
       56.6,
       49.7,
       64.6,
@@ -26262,7 +26262,7 @@
     "scores": [
       55.7,
       59.6,
-      37.6,
+      37.7,
       67.5,
       31.5,
       93.2
@@ -26480,9 +26480,9 @@
     "scores": [
       59,
       57,
-      39.6,
+      39.8,
       64.6,
-      35.2,
+      35.4,
       93.2
     ],
     "stats": {
@@ -26495,7 +26495,7 @@
   {
     "speciesId": "flareon",
     "speciesName": "Flareon",
-    "rating": 456,
+    "rating": 455,
     "matchups": [
       {
         "opponent": "zamazenta_crowned_shield",
@@ -26606,7 +26606,7 @@
   {
     "speciesId": "pinsir",
     "speciesName": "Pinsir",
-    "rating": 545,
+    "rating": 544,
     "matchups": [
       {
         "opponent": "excadrill",
@@ -26707,7 +26707,7 @@
     "scores": [
       61.8,
       53.1,
-      47.3,
+      47.2,
       64.5,
       34.3,
       90.6
@@ -26722,7 +26722,7 @@
   {
     "speciesId": "regigigas",
     "speciesName": "Regigigas",
-    "rating": 467,
+    "rating": 466,
     "matchups": [
       {
         "opponent": "giratina_origin",
@@ -26890,7 +26890,7 @@
   {
     "speciesId": "barbaracle",
     "speciesName": "Barbaracle",
-    "rating": 547,
+    "rating": 546,
     "matchups": [
       {
         "opponent": "kyurem_white",
@@ -27001,7 +27001,7 @@
   {
     "speciesId": "overqwil",
     "speciesName": "Overqwil",
-    "rating": 542,
+    "rating": 541,
     "matchups": [
       {
         "opponent": "necrozma_dawn_wings",
@@ -27093,7 +27093,7 @@
     "score": 60.3,
     "scores": [
       60.2,
-      51.4,
+      51.5,
       56.4,
       65.8,
       35,
@@ -27223,6 +27223,118 @@
     }
   },
   {
+    "speciesId": "latias_shadow",
+    "speciesName": "Latias (Shadow)",
+    "rating": 545,
+    "matchups": [
+      {
+        "opponent": "machamp_shadow",
+        "rating": 845,
+        "opRating": 154
+      },
+      {
+        "opponent": "garchomp",
+        "rating": 822,
+        "opRating": 177
+      },
+      {
+        "opponent": "reshiram",
+        "rating": 770,
+        "opRating": 229
+      },
+      {
+        "opponent": "machamp",
+        "rating": 642,
+        "opRating": 357
+      },
+      {
+        "opponent": "kyogre",
+        "rating": 555,
+        "opRating": 444
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 98
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 182
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 325
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 461
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 494
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "ZEN_HEADBUTT",
+          "uses": 6820
+        },
+        {
+          "moveId": "DRAGON_BREATH",
+          "uses": 43912
+        },
+        {
+          "moveId": "CHARM",
+          "uses": 20835
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "THUNDER",
+          "uses": 13468
+        },
+        {
+          "moveId": "PSYCHIC",
+          "uses": 11717
+        },
+        {
+          "moveId": "OUTRAGE",
+          "uses": 20774
+        },
+        {
+          "moveId": "MIST_BALL",
+          "uses": 25431
+        },
+        {
+          "moveId": "FRUSTRATION",
+          "uses": 0
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_BREATH",
+      "MIST_BALL",
+      "OUTRAGE"
+    ],
+    "score": 60.1,
+    "scores": [
+      60,
+      55.7,
+      38.1,
+      52.8,
+      56.8,
+      96
+    ],
+    "stats": {
+      "product": 7703,
+      "atk": 204.1,
+      "def": 219.3,
+      "hp": 172
+    }
+  },
+  {
     "speciesId": "moltres",
     "speciesName": "Moltres",
     "rating": 459,
@@ -27334,121 +27446,9 @@
     }
   },
   {
-    "speciesId": "latias_shadow",
-    "speciesName": "Latias (Shadow)",
-    "rating": 544,
-    "matchups": [
-      {
-        "opponent": "machamp_shadow",
-        "rating": 845,
-        "opRating": 154
-      },
-      {
-        "opponent": "garchomp",
-        "rating": 822,
-        "opRating": 177
-      },
-      {
-        "opponent": "reshiram",
-        "rating": 770,
-        "opRating": 229
-      },
-      {
-        "opponent": "machamp",
-        "rating": 642,
-        "opRating": 357
-      },
-      {
-        "opponent": "kyogre",
-        "rating": 555,
-        "opRating": 444
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 98
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 182
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 325
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 461
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 494
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "ZEN_HEADBUTT",
-          "uses": 6820
-        },
-        {
-          "moveId": "DRAGON_BREATH",
-          "uses": 43912
-        },
-        {
-          "moveId": "CHARM",
-          "uses": 20835
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "THUNDER",
-          "uses": 13468
-        },
-        {
-          "moveId": "PSYCHIC",
-          "uses": 11717
-        },
-        {
-          "moveId": "OUTRAGE",
-          "uses": 20774
-        },
-        {
-          "moveId": "MIST_BALL",
-          "uses": 25431
-        },
-        {
-          "moveId": "FRUSTRATION",
-          "uses": 0
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_BREATH",
-      "MIST_BALL",
-      "OUTRAGE"
-    ],
-    "score": 60,
-    "scores": [
-      59.9,
-      55.7,
-      38.1,
-      52.8,
-      56.8,
-      96
-    ],
-    "stats": {
-      "product": 7703,
-      "atk": 204.1,
-      "def": 219.3,
-      "hp": 172
-    }
-  },
-  {
     "speciesId": "registeel",
     "speciesName": "Registeel",
-    "rating": 478,
+    "rating": 479,
     "matchups": [
       {
         "opponent": "florges",
@@ -27560,7 +27560,7 @@
   {
     "speciesId": "gourgeist_super",
     "speciesName": "Gourgeist (Super)",
-    "rating": 500,
+    "rating": 499,
     "matchups": [
       {
         "opponent": "primarina",
@@ -27882,6 +27882,109 @@
     }
   },
   {
+    "speciesId": "drampa",
+    "speciesName": "Drampa",
+    "rating": 526,
+    "matchups": [
+      {
+        "opponent": "giratina_origin",
+        "rating": 824,
+        "opRating": 175
+      },
+      {
+        "opponent": "garchomp",
+        "rating": 788,
+        "opRating": 211
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 690
+      },
+      {
+        "opponent": "kyogre",
+        "rating": 669,
+        "opRating": 330
+      },
+      {
+        "opponent": "necrozma_dawn_wings",
+        "rating": 610,
+        "opRating": 389
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "rhyperior",
+        "rating": 199
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 202
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 228
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 318
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 343
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "EXTRASENSORY",
+          "uses": 25599
+        },
+        {
+          "moveId": "DRAGON_BREATH",
+          "uses": 46001
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SWIFT",
+          "uses": 28948
+        },
+        {
+          "moveId": "OUTRAGE",
+          "uses": 17229
+        },
+        {
+          "moveId": "FLY",
+          "uses": 19585
+        },
+        {
+          "moveId": "DRAGON_PULSE",
+          "uses": 5805
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_BREATH",
+      "SWIFT",
+      "FLY"
+    ],
+    "score": 59.6,
+    "scores": [
+      59.9,
+      49.9,
+      47.9,
+      61.3,
+      44.8,
+      94.8
+    ],
+    "stats": {
+      "product": 5224,
+      "atk": 206.7,
+      "def": 150.4,
+      "hp": 168
+    }
+  },
+  {
     "speciesId": "tauros_blaze",
     "speciesName": "Tauros (Blaze)",
     "rating": 507,
@@ -27987,109 +28090,6 @@
       "atk": 189,
       "def": 174.7,
       "hp": 164
-    }
-  },
-  {
-    "speciesId": "drampa",
-    "speciesName": "Drampa",
-    "rating": 527,
-    "matchups": [
-      {
-        "opponent": "giratina_origin",
-        "rating": 824,
-        "opRating": 175
-      },
-      {
-        "opponent": "garchomp",
-        "rating": 788,
-        "opRating": 211
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 690
-      },
-      {
-        "opponent": "kyogre",
-        "rating": 669,
-        "opRating": 330
-      },
-      {
-        "opponent": "necrozma_dawn_wings",
-        "rating": 610,
-        "opRating": 389
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "rhyperior",
-        "rating": 199
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 202
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 228
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 318
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 343
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "EXTRASENSORY",
-          "uses": 25599
-        },
-        {
-          "moveId": "DRAGON_BREATH",
-          "uses": 46001
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SWIFT",
-          "uses": 28948
-        },
-        {
-          "moveId": "OUTRAGE",
-          "uses": 17229
-        },
-        {
-          "moveId": "FLY",
-          "uses": 19585
-        },
-        {
-          "moveId": "DRAGON_PULSE",
-          "uses": 5805
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_BREATH",
-      "SWIFT",
-      "FLY"
-    ],
-    "score": 59.5,
-    "scores": [
-      59.9,
-      49.7,
-      47.9,
-      61.3,
-      44.8,
-      94.8
-    ],
-    "stats": {
-      "product": 5224,
-      "atk": 206.7,
-      "def": 150.4,
-      "hp": 168
     }
   },
   {
@@ -28321,17 +28321,17 @@
         },
         {
           "moveId": "MAGICAL_LEAF",
-          "uses": 37546
+          "uses": 37544
         },
         {
           "moveId": "CHARM",
-          "uses": 20116
+          "uses": 20118
         }
       ],
       "chargedMoves": [
         {
           "moveId": "TRIPLE_AXEL",
-          "uses": 17713
+          "uses": 17712
         },
         {
           "moveId": "STOMP",
@@ -28472,10 +28472,10 @@
       "SEED_BOMB",
       "LEAF_STORM"
     ],
-    "score": 59,
+    "score": 59.1,
     "scores": [
       59,
-      57,
+      57.2,
       40.5,
       56.6,
       51.2,
@@ -28707,7 +28707,7 @@
   {
     "speciesId": "glaceon",
     "speciesName": "Glaceon",
-    "rating": 489,
+    "rating": 488,
     "matchups": [
       {
         "opponent": "zygarde_complete",
@@ -28799,7 +28799,7 @@
     "score": 58.7,
     "scores": [
       58.1,
-      48.8,
+      48.7,
       44.4,
       61.2,
       40.2,
@@ -28815,7 +28815,7 @@
   {
     "speciesId": "hoopa",
     "speciesName": "Hoopa",
-    "rating": 462,
+    "rating": 463,
     "matchups": [
       {
         "opponent": "zacian_hero",
@@ -28896,10 +28896,10 @@
       "SHADOW_BALL",
       "PSYCHIC"
     ],
-    "score": 58.6,
+    "score": 58.7,
     "scores": [
-      53.1,
-      48.8,
+      53.3,
+      49,
       44.1,
       62.1,
       47.4,
@@ -29023,7 +29023,7 @@
   {
     "speciesId": "arboliva",
     "speciesName": "Arboliva",
-    "rating": 461,
+    "rating": 460,
     "matchups": [
       {
         "opponent": "primarina",
@@ -29077,15 +29077,15 @@
       "fastMoves": [
         {
           "moveId": "TACKLE",
-          "uses": 24511
+          "uses": 24516
         },
         {
           "moveId": "RAZOR_LEAF",
-          "uses": 15184
+          "uses": 15182
         },
         {
           "moveId": "MAGICAL_LEAF",
-          "uses": 31934
+          "uses": 31931
         }
       ],
       "chargedMoves": [
@@ -29126,6 +29126,110 @@
       "atk": 196.6,
       "def": 171.4,
       "hp": 168
+    }
+  },
+  {
+    "speciesId": "articuno_galarian",
+    "speciesName": "Articuno (Galarian)",
+    "rating": 584,
+    "matchups": [
+      {
+        "opponent": "tapu_bulu",
+        "rating": 704,
+        "opRating": 295
+      },
+      {
+        "opponent": "primarina",
+        "rating": 677,
+        "opRating": 322
+      },
+      {
+        "opponent": "rayquaza",
+        "rating": 674,
+        "opRating": 325
+      },
+      {
+        "opponent": "enamorus_incarnate",
+        "rating": 612,
+        "opRating": 387
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 532,
+        "opRating": 467
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 106
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 274
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 295
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 388
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 438
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "PSYCHO_CUT",
+          "uses": 40577
+        },
+        {
+          "moveId": "CONFUSION",
+          "uses": 31023
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "FUTURE_SIGHT",
+          "uses": 9683
+        },
+        {
+          "moveId": "FLY",
+          "uses": 22534
+        },
+        {
+          "moveId": "BRAVE_BIRD",
+          "uses": 26429
+        },
+        {
+          "moveId": "ANCIENT_POWER",
+          "uses": 12949
+        }
+      ]
+    },
+    "moveset": [
+      "PSYCHO_CUT",
+      "ANCIENT_POWER",
+      "BRAVE_BIRD"
+    ],
+    "score": 58.3,
+    "scores": [
+      62.8,
+      55.5,
+      37.4,
+      61.3,
+      38.2,
+      69.3
+    ],
+    "stats": {
+      "product": 7378,
+      "atk": 222.6,
+      "def": 178.1,
+      "hp": 186
     }
   },
   {
@@ -29245,110 +29349,6 @@
     }
   },
   {
-    "speciesId": "articuno_galarian",
-    "speciesName": "Articuno (Galarian)",
-    "rating": 583,
-    "matchups": [
-      {
-        "opponent": "tapu_bulu",
-        "rating": 704,
-        "opRating": 295
-      },
-      {
-        "opponent": "primarina",
-        "rating": 677,
-        "opRating": 322
-      },
-      {
-        "opponent": "rayquaza",
-        "rating": 674,
-        "opRating": 325
-      },
-      {
-        "opponent": "enamorus_incarnate",
-        "rating": 612,
-        "opRating": 387
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 532,
-        "opRating": 467
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 106
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 274
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 295
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 388
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 438
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "PSYCHO_CUT",
-          "uses": 40577
-        },
-        {
-          "moveId": "CONFUSION",
-          "uses": 31023
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "FUTURE_SIGHT",
-          "uses": 9683
-        },
-        {
-          "moveId": "FLY",
-          "uses": 22534
-        },
-        {
-          "moveId": "BRAVE_BIRD",
-          "uses": 26429
-        },
-        {
-          "moveId": "ANCIENT_POWER",
-          "uses": 12949
-        }
-      ]
-    },
-    "moveset": [
-      "PSYCHO_CUT",
-      "ANCIENT_POWER",
-      "BRAVE_BIRD"
-    ],
-    "score": 58.2,
-    "scores": [
-      62.6,
-      55.4,
-      37.4,
-      61.3,
-      38.2,
-      69.3
-    ],
-    "stats": {
-      "product": 7378,
-      "atk": 222.6,
-      "def": 178.1,
-      "hp": 186
-    }
-  },
-  {
     "speciesId": "stakataka",
     "speciesName": "Stakataka",
     "rating": 522,
@@ -29436,7 +29436,7 @@
     "scores": [
       59,
       53.7,
-      38.4,
+      38.5,
       58.2,
       51.8,
       68.6
@@ -29557,6 +29557,113 @@
     }
   },
   {
+    "speciesId": "corviknight",
+    "speciesName": "Corviknight",
+    "rating": 504,
+    "matchups": [
+      {
+        "opponent": "togekiss",
+        "rating": 679,
+        "opRating": 320
+      },
+      {
+        "opponent": "tapu_bulu",
+        "rating": 641,
+        "opRating": 358
+      },
+      {
+        "opponent": "enamorus_incarnate",
+        "rating": 570,
+        "opRating": 429
+      },
+      {
+        "opponent": "florges",
+        "rating": 532,
+        "opRating": 467
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 507
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "kyurem_black",
+        "rating": 185
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 216
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 286
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 286
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 369
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "STEEL_WING",
+          "uses": 23167
+        },
+        {
+          "moveId": "SAND_ATTACK",
+          "uses": 28901
+        },
+        {
+          "moveId": "AIR_SLASH",
+          "uses": 19512
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SKY_ATTACK",
+          "uses": 7739
+        },
+        {
+          "moveId": "PAYBACK",
+          "uses": 15618
+        },
+        {
+          "moveId": "IRON_HEAD",
+          "uses": 17149
+        },
+        {
+          "moveId": "AIR_CUTTER",
+          "uses": 31108
+        }
+      ]
+    },
+    "moveset": [
+      "SAND_ATTACK",
+      "AIR_CUTTER",
+      "IRON_HEAD"
+    ],
+    "score": 58.1,
+    "scores": [
+      59,
+      52.8,
+      50.1,
+      55.6,
+      52.5,
+      82.4
+    ],
+    "stats": {
+      "product": 5151,
+      "atk": 149.5,
+      "def": 173.9,
+      "hp": 198
+    }
+  },
+  {
     "speciesId": "celesteela",
     "speciesName": "Celesteela",
     "rating": 507,
@@ -29661,9 +29768,121 @@
     }
   },
   {
+    "speciesId": "quaquaval",
+    "speciesName": "Quaquaval",
+    "rating": 511,
+    "matchups": [
+      {
+        "opponent": "groudon_shadow",
+        "rating": 761,
+        "opRating": 238
+      },
+      {
+        "opponent": "aggron",
+        "rating": 755,
+        "opRating": 244
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 705,
+        "opRating": 294
+      },
+      {
+        "opponent": "excadrill",
+        "rating": 660,
+        "opRating": 339
+      },
+      {
+        "opponent": "machamp",
+        "rating": 637,
+        "opRating": 362
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "kyurem_black",
+        "rating": 139
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 143
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 251
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 274
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 411
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "WING_ATTACK",
+          "uses": 36358
+        },
+        {
+          "moveId": "WATER_GUN",
+          "uses": 35242
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "LIQUIDATION",
+          "uses": 5344
+        },
+        {
+          "moveId": "HYDRO_CANNON",
+          "uses": 19338
+        },
+        {
+          "moveId": "CLOSE_COMBAT",
+          "uses": 24159
+        },
+        {
+          "moveId": "AQUA_STEP",
+          "uses": 7233
+        },
+        {
+          "moveId": "AQUA_JET",
+          "uses": 7415
+        },
+        {
+          "moveId": "AERIAL_ACE",
+          "uses": 8147
+        }
+      ]
+    },
+    "moveset": [
+      "WING_ATTACK",
+      "CLOSE_COMBAT",
+      "HYDRO_CANNON"
+    ],
+    "score": 58,
+    "scores": [
+      53.7,
+      55.7,
+      46.3,
+      63.2,
+      29.5,
+      90.2
+    ],
+    "stats": {
+      "product": 5489,
+      "atk": 210.9,
+      "def": 146.2,
+      "hp": 178
+    }
+  },
+  {
     "speciesId": "blastoise",
     "speciesName": "Blastoise",
-    "rating": 478,
+    "rating": 477,
     "matchups": [
       {
         "opponent": "dragonite",
@@ -29777,118 +29996,6 @@
     }
   },
   {
-    "speciesId": "quaquaval",
-    "speciesName": "Quaquaval",
-    "rating": 511,
-    "matchups": [
-      {
-        "opponent": "groudon_shadow",
-        "rating": 761,
-        "opRating": 238
-      },
-      {
-        "opponent": "aggron",
-        "rating": 755,
-        "opRating": 244
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 705,
-        "opRating": 294
-      },
-      {
-        "opponent": "excadrill",
-        "rating": 660,
-        "opRating": 339
-      },
-      {
-        "opponent": "machamp",
-        "rating": 637,
-        "opRating": 362
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "kyurem_black",
-        "rating": 139
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 143
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 251
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 274
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 411
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "WING_ATTACK",
-          "uses": 36358
-        },
-        {
-          "moveId": "WATER_GUN",
-          "uses": 35242
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "LIQUIDATION",
-          "uses": 5344
-        },
-        {
-          "moveId": "HYDRO_CANNON",
-          "uses": 19338
-        },
-        {
-          "moveId": "CLOSE_COMBAT",
-          "uses": 24159
-        },
-        {
-          "moveId": "AQUA_STEP",
-          "uses": 7233
-        },
-        {
-          "moveId": "AQUA_JET",
-          "uses": 7415
-        },
-        {
-          "moveId": "AERIAL_ACE",
-          "uses": 8147
-        }
-      ]
-    },
-    "moveset": [
-      "WING_ATTACK",
-      "CLOSE_COMBAT",
-      "HYDRO_CANNON"
-    ],
-    "score": 57.9,
-    "scores": [
-      53.7,
-      55.7,
-      46.3,
-      63.2,
-      29.3,
-      90.2
-    ],
-    "stats": {
-      "product": 5489,
-      "atk": 210.9,
-      "def": 146.2,
-      "hp": 178
-    }
-  },
-  {
     "speciesId": "samurott_hisuian",
     "speciesName": "Samurott (Hisuian)",
     "rating": 503,
@@ -29980,12 +30087,12 @@
       "RAZOR_SHELL",
       "ICY_WIND"
     ],
-    "score": 57.4,
+    "score": 57.3,
     "scores": [
       57.5,
       45.2,
       48,
-      61,
+      60.9,
       43.5,
       84.5
     ],
@@ -29999,7 +30106,7 @@
   {
     "speciesId": "aurorus",
     "speciesName": "Aurorus",
-    "rating": 481,
+    "rating": 480,
     "matchups": [
       {
         "opponent": "landorus_therian",
@@ -30100,12 +30207,12 @@
       "WEATHER_BALL_ICE",
       "THUNDERBOLT"
     ],
-    "score": 57.2,
+    "score": 57.1,
     "scores": [
       58.8,
       47.1,
       44.4,
-      59.8,
+      59.6,
       36.3,
       93.9
     ],
@@ -30119,7 +30226,7 @@
   {
     "speciesId": "blastoise_shadow",
     "speciesName": "Blastoise (Shadow)",
-    "rating": 475,
+    "rating": 474,
     "matchups": [
       {
         "opponent": "ceruledge",
@@ -30229,222 +30336,6 @@
       "atk": 156.2,
       "def": 186.5,
       "hp": 170
-    }
-  },
-  {
-    "speciesId": "toedscruel",
-    "speciesName": "Toedscruel",
-    "rating": 452,
-    "matchups": [
-      {
-        "opponent": "melmetal",
-        "rating": 683,
-        "opRating": 316
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 636,
-        "opRating": 363
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 633,
-        "opRating": 366
-      },
-      {
-        "opponent": "rhyperior_shadow",
-        "rating": 546,
-        "opRating": 453
-      },
-      {
-        "opponent": "dialga",
-        "rating": 534,
-        "opRating": 465
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 158
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 188
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 190
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 197
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 387
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "MUD_SLAP",
-          "uses": 40653
-        },
-        {
-          "moveId": "MUD_SHOT",
-          "uses": 30947
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "WRAP",
-          "uses": 18991
-        },
-        {
-          "moveId": "SEED_BOMB",
-          "uses": 20689
-        },
-        {
-          "moveId": "EARTH_POWER",
-          "uses": 28294
-        },
-        {
-          "moveId": "ACID_SPRAY",
-          "uses": 3576
-        }
-      ]
-    },
-    "moveset": [
-      "MUD_SLAP",
-      "EARTH_POWER",
-      "SEED_BOMB"
-    ],
-    "score": 57.1,
-    "scores": [
-      55.7,
-      48.5,
-      38.1,
-      58.9,
-      46.6,
-      87.8
-    ],
-    "stats": {
-      "product": 4924,
-      "atk": 152,
-      "def": 188.2,
-      "hp": 172
-    }
-  },
-  {
-    "speciesId": "weavile_shadow",
-    "speciesName": "Weavile (Shadow)",
-    "rating": 453,
-    "matchups": [
-      {
-        "opponent": "giratina_origin",
-        "rating": 805,
-        "opRating": 194
-      },
-      {
-        "opponent": "necrozma_dawn_wings",
-        "rating": 786,
-        "opRating": 213
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 751,
-        "opRating": 248
-      },
-      {
-        "opponent": "dragonite",
-        "rating": 576,
-        "opRating": 423
-      },
-      {
-        "opponent": "rhyperior_shadow",
-        "rating": 573,
-        "opRating": 426
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "ho_oh",
-        "rating": 67
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 125
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 210
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 383
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 404
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "SNARL",
-          "uses": 29258
-        },
-        {
-          "moveId": "ICE_SHARD",
-          "uses": 25286
-        },
-        {
-          "moveId": "FEINT_ATTACK",
-          "uses": 17030
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "TRIPLE_AXEL",
-          "uses": 10171
-        },
-        {
-          "moveId": "FRUSTRATION",
-          "uses": 0
-        },
-        {
-          "moveId": "FOUL_PLAY",
-          "uses": 21448
-        },
-        {
-          "moveId": "FOCUS_BLAST",
-          "uses": 10917
-        },
-        {
-          "moveId": "AVALANCHE",
-          "uses": 29140
-        }
-      ]
-    },
-    "moveset": [
-      "SNARL",
-      "AVALANCHE",
-      "FOCUS_BLAST"
-    ],
-    "score": 57.1,
-    "scores": [
-      55.2,
-      50.3,
-      32.3,
-      64.5,
-      24,
-      94.1
-    ],
-    "stats": {
-      "product": 5320,
-      "atk": 216.7,
-      "def": 156.2,
-      "hp": 157
     }
   },
   {
@@ -30602,13 +30493,13 @@
       "WILD_CHARGE",
       "PSYCHIC_FANGS"
     ],
-    "score": 57,
+    "score": 57.1,
     "scores": [
       63.7,
       48.8,
       40.6,
       71.9,
-      26.2,
+      26.4,
       60.3
     ],
     "stats": {
@@ -30616,6 +30507,222 @@
       "atk": 207.5,
       "def": 143.6,
       "hp": 172
+    }
+  },
+  {
+    "speciesId": "toedscruel",
+    "speciesName": "Toedscruel",
+    "rating": 452,
+    "matchups": [
+      {
+        "opponent": "melmetal",
+        "rating": 683,
+        "opRating": 316
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 636,
+        "opRating": 363
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 633,
+        "opRating": 366
+      },
+      {
+        "opponent": "rhyperior_shadow",
+        "rating": 546,
+        "opRating": 453
+      },
+      {
+        "opponent": "dialga",
+        "rating": 534,
+        "opRating": 465
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 158
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 188
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 190
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 197
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 387
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "MUD_SLAP",
+          "uses": 40653
+        },
+        {
+          "moveId": "MUD_SHOT",
+          "uses": 30947
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "WRAP",
+          "uses": 18991
+        },
+        {
+          "moveId": "SEED_BOMB",
+          "uses": 20689
+        },
+        {
+          "moveId": "EARTH_POWER",
+          "uses": 28294
+        },
+        {
+          "moveId": "ACID_SPRAY",
+          "uses": 3576
+        }
+      ]
+    },
+    "moveset": [
+      "MUD_SLAP",
+      "EARTH_POWER",
+      "SEED_BOMB"
+    ],
+    "score": 57.1,
+    "scores": [
+      55.7,
+      48.5,
+      38.1,
+      58.9,
+      46.6,
+      87.8
+    ],
+    "stats": {
+      "product": 4924,
+      "atk": 152,
+      "def": 188.2,
+      "hp": 172
+    }
+  },
+  {
+    "speciesId": "weavile_shadow",
+    "speciesName": "Weavile (Shadow)",
+    "rating": 452,
+    "matchups": [
+      {
+        "opponent": "giratina_origin",
+        "rating": 805,
+        "opRating": 194
+      },
+      {
+        "opponent": "necrozma_dawn_wings",
+        "rating": 786,
+        "opRating": 213
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 751,
+        "opRating": 248
+      },
+      {
+        "opponent": "dragonite",
+        "rating": 576,
+        "opRating": 423
+      },
+      {
+        "opponent": "rhyperior_shadow",
+        "rating": 573,
+        "opRating": 426
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "ho_oh",
+        "rating": 67
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 125
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 210
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 383
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 404
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "SNARL",
+          "uses": 29258
+        },
+        {
+          "moveId": "ICE_SHARD",
+          "uses": 25286
+        },
+        {
+          "moveId": "FEINT_ATTACK",
+          "uses": 17030
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "TRIPLE_AXEL",
+          "uses": 10171
+        },
+        {
+          "moveId": "FRUSTRATION",
+          "uses": 0
+        },
+        {
+          "moveId": "FOUL_PLAY",
+          "uses": 21448
+        },
+        {
+          "moveId": "FOCUS_BLAST",
+          "uses": 10917
+        },
+        {
+          "moveId": "AVALANCHE",
+          "uses": 29140
+        }
+      ]
+    },
+    "moveset": [
+      "SNARL",
+      "AVALANCHE",
+      "FOCUS_BLAST"
+    ],
+    "score": 57.1,
+    "scores": [
+      55.2,
+      50.3,
+      32.3,
+      64.5,
+      24,
+      94.1
+    ],
+    "stats": {
+      "product": 5320,
+      "atk": 216.7,
+      "def": 156.2,
+      "hp": 157
     }
   },
   {
@@ -30945,7 +31052,7 @@
   {
     "speciesId": "cryogonal",
     "speciesName": "Cryogonal",
-    "rating": 481,
+    "rating": 480,
     "matchups": [
       {
         "opponent": "dragonite",
@@ -30999,11 +31106,11 @@
       "fastMoves": [
         {
           "moveId": "ICE_SHARD",
-          "uses": 42829
+          "uses": 42831
         },
         {
           "moveId": "FROST_BREATH",
-          "uses": 28771
+          "uses": 28769
         }
       ],
       "chargedMoves": [
@@ -31038,7 +31145,7 @@
     "scores": [
       58.8,
       43,
-      45.6,
+      45.5,
       57.3,
       44.6,
       95.7
@@ -31329,7 +31436,7 @@
     "scores": [
       52.1,
       57.5,
-      35.5,
+      35.3,
       50,
       47.4,
       99.9
@@ -31339,113 +31446,6 @@
       "atk": 253.7,
       "def": 189,
       "hp": 198
-    }
-  },
-  {
-    "speciesId": "kleavor",
-    "speciesName": "Kleavor",
-    "rating": 497,
-    "matchups": [
-      {
-        "opponent": "ho_oh",
-        "rating": 662
-      },
-      {
-        "opponent": "yveltal",
-        "rating": 652,
-        "opRating": 347
-      },
-      {
-        "opponent": "togekiss",
-        "rating": 614,
-        "opRating": 385
-      },
-      {
-        "opponent": "rayquaza",
-        "rating": 563,
-        "opRating": 436
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 544,
-        "opRating": 455
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 161
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 167
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 239
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 286
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 312
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "QUICK_ATTACK",
-          "uses": 24096
-        },
-        {
-          "moveId": "FURY_CUTTER",
-          "uses": 33849
-        },
-        {
-          "moveId": "AIR_SLASH",
-          "uses": 13602
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "X_SCISSOR",
-          "uses": 19476
-        },
-        {
-          "moveId": "TRAILBLAZE",
-          "uses": 17830
-        },
-        {
-          "moveId": "STONE_EDGE",
-          "uses": 17616
-        },
-        {
-          "moveId": "ROCK_SLIDE",
-          "uses": 16684
-        }
-      ]
-    },
-    "moveset": [
-      "QUICK_ATTACK",
-      "X_SCISSOR",
-      "STONE_EDGE"
-    ],
-    "score": 56.4,
-    "scores": [
-      54,
-      54.3,
-      47.4,
-      62.9,
-      23.1,
-      87.9
-    ],
-    "stats": {
-      "product": 5615,
-      "atk": 225.2,
-      "def": 158.8,
-      "hp": 157
     }
   },
   {
@@ -31554,6 +31554,113 @@
       "atk": 194.1,
       "def": 196.6,
       "hp": 149
+    }
+  },
+  {
+    "speciesId": "kleavor",
+    "speciesName": "Kleavor",
+    "rating": 496,
+    "matchups": [
+      {
+        "opponent": "ho_oh",
+        "rating": 662
+      },
+      {
+        "opponent": "yveltal",
+        "rating": 652,
+        "opRating": 347
+      },
+      {
+        "opponent": "togekiss",
+        "rating": 614,
+        "opRating": 385
+      },
+      {
+        "opponent": "rayquaza",
+        "rating": 563,
+        "opRating": 436
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 544,
+        "opRating": 455
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 161
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 167
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 239
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 286
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 312
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "QUICK_ATTACK",
+          "uses": 24096
+        },
+        {
+          "moveId": "FURY_CUTTER",
+          "uses": 33849
+        },
+        {
+          "moveId": "AIR_SLASH",
+          "uses": 13602
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "X_SCISSOR",
+          "uses": 19476
+        },
+        {
+          "moveId": "TRAILBLAZE",
+          "uses": 17830
+        },
+        {
+          "moveId": "STONE_EDGE",
+          "uses": 17616
+        },
+        {
+          "moveId": "ROCK_SLIDE",
+          "uses": 16684
+        }
+      ]
+    },
+    "moveset": [
+      "QUICK_ATTACK",
+      "X_SCISSOR",
+      "STONE_EDGE"
+    ],
+    "score": 56.3,
+    "scores": [
+      54,
+      54.1,
+      47.4,
+      62.9,
+      23.1,
+      87.9
+    ],
+    "stats": {
+      "product": 5615,
+      "atk": 225.2,
+      "def": 158.8,
+      "hp": 157
     }
   },
   {
@@ -31666,7 +31773,7 @@
     ],
     "score": 56.2,
     "scores": [
-      56.7,
+      56.6,
       49,
       46.1,
       57.1,
@@ -31683,7 +31790,7 @@
   {
     "speciesId": "armaldo_shadow",
     "speciesName": "Armaldo (Shadow)",
-    "rating": 505,
+    "rating": 504,
     "matchups": [
       {
         "opponent": "zarude",
@@ -31804,14 +31911,14 @@
         "opRating": 271
       },
       {
+        "opponent": "excadrill",
+        "rating": 681,
+        "opRating": 318
+      },
+      {
         "opponent": "mewtwo",
         "rating": 644,
         "opRating": 355
-      },
-      {
-        "opponent": "dialga",
-        "rating": 555,
-        "opRating": 444
       },
       {
         "opponent": "dialga_origin",
@@ -31889,8 +31996,8 @@
       56.9,
       47.4,
       45.1,
-      56.1,
-      39.3,
+      55.9,
+      39.6,
       100
     ],
     "stats": {
@@ -31993,7 +32100,7 @@
       53.1,
       54.7,
       47.9,
-      59.7,
+      59.8,
       28,
       87.5
     ],
@@ -32227,7 +32334,7 @@
   {
     "speciesId": "archeops_shadow",
     "speciesName": "Archeops (Shadow)",
-    "rating": 489,
+    "rating": 488,
     "matchups": [
       {
         "opponent": "landorus_incarnate",
@@ -32862,7 +32969,7 @@
     ],
     "score": 54.9,
     "scores": [
-      56.3,
+      56.4,
       49.1,
       44.4,
       57,
@@ -32879,7 +32986,7 @@
   {
     "speciesId": "exeggutor_alolan",
     "speciesName": "Exeggutor (Alolan)",
-    "rating": 459,
+    "rating": 458,
     "matchups": [
       {
         "opponent": "kyogre",
@@ -32933,33 +33040,33 @@
       "fastMoves": [
         {
           "moveId": "DRAGON_TAIL",
-          "uses": 38779
+          "uses": 38782
         },
         {
           "moveId": "BULLET_SEED",
-          "uses": 32821
+          "uses": 32818
         }
       ],
       "chargedMoves": [
         {
           "moveId": "SOLAR_BEAM",
-          "uses": 6804
+          "uses": 6799
         },
         {
           "moveId": "SEED_BOMB",
-          "uses": 23426
+          "uses": 23427
         },
         {
           "moveId": "RETURN",
-          "uses": 10564
+          "uses": 10565
         },
         {
           "moveId": "DRAGON_PULSE",
-          "uses": 16224
+          "uses": 16225
         },
         {
           "moveId": "DRACO_METEOR",
-          "uses": 14486
+          "uses": 14487
         }
       ]
     },
@@ -32970,8 +33077,8 @@
     ],
     "score": 54.5,
     "scores": [
-      53.4,
-      49.3,
+      53.3,
+      49.4,
       38.1,
       54.9,
       47.4,
@@ -33094,6 +33201,113 @@
       "atk": 168,
       "def": 199.1,
       "hp": 164
+    }
+  },
+  {
+    "speciesId": "exeggutor_alolan_shadow",
+    "speciesName": "Exeggutor (Alolan) (Shadow)",
+    "rating": 458,
+    "matchups": [
+      {
+        "opponent": "garchomp",
+        "rating": 853,
+        "opRating": 146
+      },
+      {
+        "opponent": "kyogre",
+        "rating": 791,
+        "opRating": 208
+      },
+      {
+        "opponent": "primarina",
+        "rating": 703,
+        "opRating": 296
+      },
+      {
+        "opponent": "groudon",
+        "rating": 636,
+        "opRating": 363
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 548
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 101
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 193
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 304
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 309
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 315
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "DRAGON_TAIL",
+          "uses": 38495
+        },
+        {
+          "moveId": "BULLET_SEED",
+          "uses": 33105
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SOLAR_BEAM",
+          "uses": 7811
+        },
+        {
+          "moveId": "SEED_BOMB",
+          "uses": 27322
+        },
+        {
+          "moveId": "FRUSTRATION",
+          "uses": 0
+        },
+        {
+          "moveId": "DRAGON_PULSE",
+          "uses": 19200
+        },
+        {
+          "moveId": "DRACO_METEOR",
+          "uses": 17024
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_TAIL",
+      "SEED_BOMB",
+      "DRACO_METEOR"
+    ],
+    "score": 54.4,
+    "scores": [
+      54,
+      47.3,
+      38.4,
+      54.6,
+      48.5,
+      79
+    ],
+    "stats": {
+      "product": 5638,
+      "atk": 205.8,
+      "def": 141.1,
+      "hp": 194
     }
   },
   {
@@ -33222,113 +33436,6 @@
       "atk": 151.2,
       "def": 158.8,
       "hp": 245
-    }
-  },
-  {
-    "speciesId": "exeggutor_alolan_shadow",
-    "speciesName": "Exeggutor (Alolan) (Shadow)",
-    "rating": 458,
-    "matchups": [
-      {
-        "opponent": "garchomp",
-        "rating": 853,
-        "opRating": 146
-      },
-      {
-        "opponent": "kyogre",
-        "rating": 791,
-        "opRating": 208
-      },
-      {
-        "opponent": "primarina",
-        "rating": 703,
-        "opRating": 296
-      },
-      {
-        "opponent": "groudon",
-        "rating": 636,
-        "opRating": 363
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 548
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 101
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 193
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 304
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 309
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 315
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "DRAGON_TAIL",
-          "uses": 38495
-        },
-        {
-          "moveId": "BULLET_SEED",
-          "uses": 33105
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SOLAR_BEAM",
-          "uses": 7811
-        },
-        {
-          "moveId": "SEED_BOMB",
-          "uses": 27322
-        },
-        {
-          "moveId": "FRUSTRATION",
-          "uses": 0
-        },
-        {
-          "moveId": "DRAGON_PULSE",
-          "uses": 19200
-        },
-        {
-          "moveId": "DRACO_METEOR",
-          "uses": 17024
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_TAIL",
-      "SEED_BOMB",
-      "DRACO_METEOR"
-    ],
-    "score": 54.3,
-    "scores": [
-      54,
-      47.1,
-      38.4,
-      54.6,
-      48.5,
-      79
-    ],
-    "stats": {
-      "product": 5638,
-      "atk": 205.8,
-      "def": 141.1,
-      "hp": 194
     }
   },
   {
@@ -33542,7 +33649,7 @@
   {
     "speciesId": "espeon",
     "speciesName": "Espeon",
-    "rating": 494,
+    "rating": 495,
     "matchups": [
       {
         "opponent": "annihilape",
@@ -33595,21 +33702,21 @@
       "fastMoves": [
         {
           "moveId": "ZEN_HEADBUTT",
-          "uses": 11622
+          "uses": 11624
         },
         {
           "moveId": "CONFUSION",
-          "uses": 59978
+          "uses": 59976
         }
       ],
       "chargedMoves": [
         {
           "moveId": "SHADOW_BALL",
-          "uses": 18000
+          "uses": 18001
         },
         {
           "moveId": "PSYCHIC_FANGS",
-          "uses": 26030
+          "uses": 26029
         },
         {
           "moveId": "PSYCHIC",
@@ -33634,9 +33741,9 @@
       "PSYCHIC_FANGS",
       "SHADOW_BALL"
     ],
-    "score": 53.9,
+    "score": 54,
     "scores": [
-      56.4,
+      56.6,
       41.8,
       42.7,
       56.6,
@@ -33769,7 +33876,7 @@
   {
     "speciesId": "porygon_z",
     "speciesName": "Porygon-Z",
-    "rating": 446,
+    "rating": 445,
     "matchups": [
       {
         "opponent": "giratina_origin",
@@ -34747,7 +34854,7 @@
   {
     "speciesId": "muk_shadow",
     "speciesName": "Muk (Shadow)",
-    "rating": 487,
+    "rating": 486,
     "matchups": [
       {
         "opponent": "tapu_bulu",
@@ -34858,110 +34965,6 @@
       "atk": 172.2,
       "def": 157.1,
       "hp": 208
-    }
-  },
-  {
-    "speciesId": "vanilluxe",
-    "speciesName": "Vanilluxe",
-    "rating": 403,
-    "matchups": [
-      {
-        "opponent": "garchomp",
-        "rating": 775,
-        "opRating": 224
-      },
-      {
-        "opponent": "necrozma_dawn_wings",
-        "rating": 708,
-        "opRating": 291
-      },
-      {
-        "opponent": "lunala",
-        "rating": 686,
-        "opRating": 313
-      },
-      {
-        "opponent": "tapu_bulu",
-        "rating": 569,
-        "opRating": 430
-      },
-      {
-        "opponent": "togekiss",
-        "rating": 522,
-        "opRating": 477
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "ho_oh",
-        "rating": 148
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 185
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 190
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 274
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 329
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "FROST_BREATH",
-          "uses": 26135
-        },
-        {
-          "moveId": "ASTONISH",
-          "uses": 45465
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SIGNAL_BEAM",
-          "uses": 10260
-        },
-        {
-          "moveId": "FLASH_CANNON",
-          "uses": 8578
-        },
-        {
-          "moveId": "BLIZZARD",
-          "uses": 7118
-        },
-        {
-          "moveId": "AVALANCHE",
-          "uses": 45517
-        }
-      ]
-    },
-    "moveset": [
-      "ASTONISH",
-      "AVALANCHE",
-      "SIGNAL_BEAM"
-    ],
-    "score": 52.9,
-    "scores": [
-      47.7,
-      45.8,
-      38.1,
-      57.8,
-      31.9,
-      94.1
-    ],
-    "stats": {
-      "product": 5173,
-      "atk": 195.7,
-      "def": 167.2,
-      "hp": 158
     }
   },
   {
@@ -35081,107 +35084,107 @@
     }
   },
   {
-    "speciesId": "corviknight",
-    "speciesName": "Corviknight",
-    "rating": 457,
+    "speciesId": "vanilluxe",
+    "speciesName": "Vanilluxe",
+    "rating": 402,
     "matchups": [
       {
-        "opponent": "sirfetchd",
-        "rating": 924,
-        "opRating": 75
+        "opponent": "garchomp",
+        "rating": 775,
+        "opRating": 224
       },
       {
-        "opponent": "latios_shadow",
-        "rating": 674,
-        "opRating": 325
+        "opponent": "necrozma_dawn_wings",
+        "rating": 708,
+        "opRating": 291
       },
       {
-        "opponent": "jirachi",
-        "rating": 646,
-        "opRating": 353
+        "opponent": "lunala",
+        "rating": 686,
+        "opRating": 313
       },
       {
         "opponent": "tapu_bulu",
-        "rating": 611,
-        "opRating": 388
+        "rating": 569,
+        "opRating": 430
       },
       {
-        "opponent": "excadrill",
-        "rating": 573,
-        "opRating": 426
+        "opponent": "togekiss",
+        "rating": 522,
+        "opRating": 477
       }
     ],
     "counters": [
       {
-        "opponent": "kyurem_black",
-        "rating": 116
+        "opponent": "ho_oh",
+        "rating": 148
       },
       {
-        "opponent": "ho_oh",
-        "rating": 208
+        "opponent": "kyurem_black",
+        "rating": 185
       },
       {
         "opponent": "palkia_origin",
-        "rating": 254
+        "rating": 190
       },
       {
         "opponent": "zamazenta_crowned_shield",
-        "rating": 283
+        "rating": 274
       },
       {
         "opponent": "zacian_crowned_sword",
-        "rating": 323
+        "rating": 329
       }
     ],
     "moves": {
       "fastMoves": [
         {
-          "moveId": "STEEL_WING",
-          "uses": 23370
+          "moveId": "FROST_BREATH",
+          "uses": 26135
         },
         {
-          "moveId": "SAND_ATTACK",
-          "uses": 28357
-        },
-        {
-          "moveId": "AIR_SLASH",
-          "uses": 19887
+          "moveId": "ASTONISH",
+          "uses": 45465
         }
       ],
       "chargedMoves": [
         {
-          "moveId": "SKY_ATTACK",
-          "uses": 24710
+          "moveId": "SIGNAL_BEAM",
+          "uses": 10260
         },
         {
-          "moveId": "PAYBACK",
-          "uses": 22604
+          "moveId": "FLASH_CANNON",
+          "uses": 8578
         },
         {
-          "moveId": "IRON_HEAD",
-          "uses": 24268
+          "moveId": "BLIZZARD",
+          "uses": 7118
+        },
+        {
+          "moveId": "AVALANCHE",
+          "uses": 45517
         }
       ]
     },
     "moveset": [
-      "SAND_ATTACK",
-      "SKY_ATTACK",
-      "PAYBACK"
+      "ASTONISH",
+      "AVALANCHE",
+      "SIGNAL_BEAM"
     ],
-    "score": 52.6,
+    "score": 52.8,
     "scores": [
-      50.7,
-      52.2,
-      39.6,
-      48.7,
-      40.7,
-      94
+      47.5,
+      45.8,
+      38.1,
+      57.8,
+      31.9,
+      94.1
     ],
     "stats": {
-      "product": 5151,
-      "atk": 149.5,
-      "def": 173.9,
-      "hp": 198
+      "product": 5173,
+      "atk": 195.7,
+      "def": 167.2,
+      "hp": 158
     }
   },
   {
@@ -35240,11 +35243,11 @@
       "fastMoves": [
         {
           "moveId": "ROCK_THROW",
-          "uses": 22644
+          "uses": 22648
         },
         {
           "moveId": "DRAGON_TAIL",
-          "uses": 34435
+          "uses": 34431
         },
         {
           "moveId": "CHARM",
@@ -35274,7 +35277,7 @@
         },
         {
           "moveId": "CRUNCH",
-          "uses": 11772
+          "uses": 11773
         }
       ]
     },
@@ -35394,7 +35397,7 @@
     "score": 52.2,
     "scores": [
       50.4,
-      40,
+      39.8,
       43.1,
       56.5,
       32.6,
@@ -35503,13 +35506,13 @@
       "FOCUS_BLAST",
       "FLASH_CANNON"
     ],
-    "score": 52.1,
+    "score": 52.2,
     "scores": [
       50.7,
       54.4,
       37.8,
       47.1,
-      31,
+      31.2,
       91.6
     ],
     "stats": {
@@ -35632,112 +35635,9 @@
     }
   },
   {
-    "speciesId": "archeops",
-    "speciesName": "Archeops",
-    "rating": 476,
-    "matchups": [
-      {
-        "opponent": "tapu_bulu",
-        "rating": 826,
-        "opRating": 173
-      },
-      {
-        "opponent": "volcanion",
-        "rating": 753,
-        "opRating": 246
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 737
-      },
-      {
-        "opponent": "enamorus_incarnate",
-        "rating": 567,
-        "opRating": 432
-      },
-      {
-        "opponent": "rayquaza",
-        "rating": 509,
-        "opRating": 490
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 89
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 118
-      },
-      {
-        "opponent": "rhyperior",
-        "rating": 228
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 364
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 394
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "WING_ATTACK",
-          "uses": 40055
-        },
-        {
-          "moveId": "STEEL_WING",
-          "uses": 31545
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "RETURN",
-          "uses": 7988
-        },
-        {
-          "moveId": "DRAGON_CLAW",
-          "uses": 22698
-        },
-        {
-          "moveId": "CRUNCH",
-          "uses": 19732
-        },
-        {
-          "moveId": "ANCIENT_POWER",
-          "uses": 21179
-        }
-      ]
-    },
-    "moveset": [
-      "WING_ATTACK",
-      "DRAGON_CLAW",
-      "ANCIENT_POWER"
-    ],
-    "score": 51.8,
-    "scores": [
-      53,
-      46.7,
-      33.8,
-      53.6,
-      28.2,
-      89.8
-    ],
-    "stats": {
-      "product": 5475,
-      "atk": 257.9,
-      "def": 129.4,
-      "hp": 164
-    }
-  },
-  {
     "speciesId": "revavroom",
     "speciesName": "Revavroom",
-    "rating": 441,
+    "rating": 443,
     "matchups": [
       {
         "opponent": "zacian_hero",
@@ -35791,15 +35691,15 @@
       "fastMoves": [
         {
           "moveId": "POISON_JAB",
-          "uses": 25139
+          "uses": 25140
         },
         {
           "moveId": "METAL_SOUND",
-          "uses": 28960
+          "uses": 28958
         },
         {
           "moveId": "LICK",
-          "uses": 17500
+          "uses": 17501
         }
       ],
       "chargedMoves": [
@@ -35832,7 +35732,7 @@
       55.7,
       26.7,
       53.4,
-      35.2,
+      35,
       68.4
     ],
     "stats": {
@@ -35845,7 +35745,7 @@
   {
     "speciesId": "seismitoad",
     "speciesName": "Seismitoad",
-    "rating": 438,
+    "rating": 439,
     "matchups": [
       {
         "opponent": "skeledirge",
@@ -35940,6 +35840,109 @@
       "atk": 170.5,
       "def": 138.6,
       "hp": 208
+    }
+  },
+  {
+    "speciesId": "archeops",
+    "speciesName": "Archeops",
+    "rating": 475,
+    "matchups": [
+      {
+        "opponent": "tapu_bulu",
+        "rating": 826,
+        "opRating": 173
+      },
+      {
+        "opponent": "volcanion",
+        "rating": 753,
+        "opRating": 246
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 737
+      },
+      {
+        "opponent": "enamorus_incarnate",
+        "rating": 567,
+        "opRating": 432
+      },
+      {
+        "opponent": "rayquaza",
+        "rating": 509,
+        "opRating": 490
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 89
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 118
+      },
+      {
+        "opponent": "rhyperior",
+        "rating": 228
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 364
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 394
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "WING_ATTACK",
+          "uses": 40055
+        },
+        {
+          "moveId": "STEEL_WING",
+          "uses": 31545
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "RETURN",
+          "uses": 7988
+        },
+        {
+          "moveId": "DRAGON_CLAW",
+          "uses": 22698
+        },
+        {
+          "moveId": "CRUNCH",
+          "uses": 19732
+        },
+        {
+          "moveId": "ANCIENT_POWER",
+          "uses": 21179
+        }
+      ]
+    },
+    "moveset": [
+      "WING_ATTACK",
+      "DRAGON_CLAW",
+      "ANCIENT_POWER"
+    ],
+    "score": 51.7,
+    "scores": [
+      53,
+      46.7,
+      33.8,
+      53.5,
+      28.2,
+      89.8
+    ],
+    "stats": {
+      "product": 5475,
+      "atk": 257.9,
+      "def": 129.4,
+      "hp": 164
     }
   },
   {
@@ -36156,7 +36159,7 @@
   {
     "speciesId": "arcanine_hisuian",
     "speciesName": "Arcanine (Hisuian)",
-    "rating": 443,
+    "rating": 444,
     "matchups": [
       {
         "opponent": "enamorus_incarnate",
@@ -36359,7 +36362,7 @@
   {
     "speciesId": "torterra_shadow",
     "speciesName": "Torterra (Shadow)",
-    "rating": 419,
+    "rating": 418,
     "matchups": [
       {
         "opponent": "rhyperior",
@@ -36471,7 +36474,7 @@
   {
     "speciesId": "gliscor",
     "speciesName": "Gliscor",
-    "rating": 480,
+    "rating": 479,
     "matchups": [
       {
         "opponent": "raikou_shadow",
@@ -36693,6 +36696,118 @@
     }
   },
   {
+    "speciesId": "muk_alolan_shadow",
+    "speciesName": "Muk (Alolan) (Shadow)",
+    "rating": 430,
+    "matchups": [
+      {
+        "opponent": "mewtwo",
+        "rating": 682,
+        "opRating": 317
+      },
+      {
+        "opponent": "tapu_bulu",
+        "rating": 656,
+        "opRating": 343
+      },
+      {
+        "opponent": "enamorus_incarnate",
+        "rating": 552,
+        "opRating": 447
+      },
+      {
+        "opponent": "xerneas",
+        "rating": 516,
+        "opRating": 483
+      },
+      {
+        "opponent": "zacian_hero",
+        "rating": 502,
+        "opRating": 497
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 179
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 213
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 227
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 283
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 393
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "SNARL",
+          "uses": 26420
+        },
+        {
+          "moveId": "POISON_JAB",
+          "uses": 28548
+        },
+        {
+          "moveId": "BITE",
+          "uses": 16718
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SLUDGE_WAVE",
+          "uses": 18293
+        },
+        {
+          "moveId": "GUNK_SHOT",
+          "uses": 7091
+        },
+        {
+          "moveId": "FRUSTRATION",
+          "uses": 0
+        },
+        {
+          "moveId": "DARK_PULSE",
+          "uses": 39942
+        },
+        {
+          "moveId": "ACID_SPRAY",
+          "uses": 6238
+        }
+      ]
+    },
+    "moveset": [
+      "POISON_JAB",
+      "DARK_PULSE",
+      "SLUDGE_WAVE"
+    ],
+    "score": 50.7,
+    "scores": [
+      46.2,
+      47.4,
+      34.9,
+      52.4,
+      33.6,
+      92.9
+    ],
+    "stats": {
+      "product": 5630,
+      "atk": 172.2,
+      "def": 157.1,
+      "hp": 208
+    }
+  },
+  {
     "speciesId": "yanmega",
     "speciesName": "Yanmega",
     "rating": 454,
@@ -36790,118 +36905,6 @@
       "atk": 206.7,
       "def": 143.6,
       "hp": 180
-    }
-  },
-  {
-    "speciesId": "muk_alolan_shadow",
-    "speciesName": "Muk (Alolan) (Shadow)",
-    "rating": 430,
-    "matchups": [
-      {
-        "opponent": "mewtwo",
-        "rating": 682,
-        "opRating": 317
-      },
-      {
-        "opponent": "tapu_bulu",
-        "rating": 656,
-        "opRating": 343
-      },
-      {
-        "opponent": "enamorus_incarnate",
-        "rating": 552,
-        "opRating": 447
-      },
-      {
-        "opponent": "xerneas",
-        "rating": 516,
-        "opRating": 483
-      },
-      {
-        "opponent": "zacian_hero",
-        "rating": 502,
-        "opRating": 497
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 179
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 213
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 227
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 283
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 393
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "SNARL",
-          "uses": 26420
-        },
-        {
-          "moveId": "POISON_JAB",
-          "uses": 28548
-        },
-        {
-          "moveId": "BITE",
-          "uses": 16718
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SLUDGE_WAVE",
-          "uses": 18293
-        },
-        {
-          "moveId": "GUNK_SHOT",
-          "uses": 7091
-        },
-        {
-          "moveId": "FRUSTRATION",
-          "uses": 0
-        },
-        {
-          "moveId": "DARK_PULSE",
-          "uses": 39942
-        },
-        {
-          "moveId": "ACID_SPRAY",
-          "uses": 6238
-        }
-      ]
-    },
-    "moveset": [
-      "POISON_JAB",
-      "DARK_PULSE",
-      "SLUDGE_WAVE"
-    ],
-    "score": 50.6,
-    "scores": [
-      46.2,
-      47.3,
-      34.9,
-      52.4,
-      33.6,
-      92.9
-    ],
-    "stats": {
-      "product": 5630,
-      "atk": 172.2,
-      "def": 157.1,
-      "hp": 208
     }
   },
   {
@@ -37112,7 +37115,7 @@
     "scores": [
       49.8,
       47,
-      40.5,
+      40.3,
       49.4,
       41.3,
       80.2
@@ -37127,7 +37130,7 @@
   {
     "speciesId": "kingdra",
     "speciesName": "Kingdra",
-    "rating": 416,
+    "rating": 415,
     "matchups": [
       {
         "opponent": "vaporeon",
@@ -37455,7 +37458,7 @@
   {
     "speciesId": "jolteon",
     "speciesName": "Jolteon",
-    "rating": 444,
+    "rating": 443,
     "matchups": [
       {
         "opponent": "primarina",
@@ -37547,7 +37550,7 @@
     "score": 49.3,
     "scores": [
       50.4,
-      42,
+      42.1,
       36.3,
       50.6,
       30.8,
@@ -37563,7 +37566,7 @@
   {
     "speciesId": "diancie",
     "speciesName": "Diancie",
-    "rating": 407,
+    "rating": 405,
     "matchups": [
       {
         "opponent": "rayquaza",
@@ -37646,7 +37649,7 @@
     ],
     "score": 49,
     "scores": [
-      46.2,
+      46,
       48.4,
       27.9,
       41.4,
@@ -37775,7 +37778,7 @@
   {
     "speciesId": "oinkologne_female",
     "speciesName": "Oinkologne (Female)",
-    "rating": 408,
+    "rating": 409,
     "matchups": [
       {
         "opponent": "feraligatr_shadow",
@@ -37975,7 +37978,7 @@
   {
     "speciesId": "rampardos_shadow",
     "speciesName": "Rampardos (Shadow)",
-    "rating": 426,
+    "rating": 425,
     "matchups": [
       {
         "opponent": "ho_oh",
@@ -38521,7 +38524,7 @@
       46.8,
       44.5,
       39.6,
-      47.6,
+      47.7,
       34.7,
       88.7
     ],
@@ -38646,7 +38649,7 @@
   {
     "speciesId": "azelf",
     "speciesName": "Azelf",
-    "rating": 426,
+    "rating": 427,
     "matchups": [
       {
         "opponent": "magmortar_shadow",
@@ -39997,10 +40000,10 @@
       "CLOSE_COMBAT",
       "BRAVE_BIRD"
     ],
-    "score": 45.6,
+    "score": 45.7,
     "scores": [
       37.3,
-      53.1,
+      53.2,
       25.3,
       35.6,
       30.1,
@@ -40110,7 +40113,7 @@
       40.7,
       29.8,
       45.6,
-      31.9,
+      31.7,
       95.9
     ],
     "stats": {
@@ -40945,7 +40948,7 @@
   {
     "speciesId": "blissey",
     "speciesName": "Blissey",
-    "rating": 343,
+    "rating": 342,
     "matchups": [
       {
         "opponent": "sneasler_shadow",
@@ -41103,11 +41106,11 @@
       "fastMoves": [
         {
           "moveId": "ZEN_HEADBUTT",
-          "uses": 11465
+          "uses": 11464
         },
         {
           "moveId": "COUNTER",
-          "uses": 60135
+          "uses": 60136
         }
       ],
       "chargedMoves": [
@@ -41149,7 +41152,7 @@
   {
     "speciesId": "aerodactyl",
     "speciesName": "Aerodactyl",
-    "rating": 376,
+    "rating": 375,
     "matchups": [
       {
         "opponent": "centiskorch",
@@ -42329,7 +42332,7 @@
     "score": 38.5,
     "scores": [
       36.8,
-      30.4,
+      30.5,
       29.2,
       35.1,
       35.6,
@@ -42703,7 +42706,7 @@
       26.9,
       34,
       20.6,
-      24.6,
+      24.7,
       26,
       94.3
     ],
