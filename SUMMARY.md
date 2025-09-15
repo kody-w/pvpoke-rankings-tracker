@@ -1,12 +1,12 @@
-## PvPoke Rankings Summary - Mon Sep 15 12:57:13 UTC 2025
+## PvPoke Rankings Summary - Mon Sep 15 18:38:50 UTC 2025
 
 ### Master League (10000 CP)
-- Total Pokemon: 382
+- Total Pokemon: 383
 - Top 10 Pokemon:
   - Zacian (Crowned Sword): 97.4 points
-  - Palkia (Origin): 95.9 points
+  - Palkia (Origin): 96 points
   - Lugia: 95.7 points
-  - Zamazenta (Crowned Shield): 95 points
+  - Zamazenta (Crowned Shield): 95.2 points
   - Zekrom: 94.1 points
   - Lugia (Shadow): 93.8 points
   - Dialga (Origin): 93.3 points
