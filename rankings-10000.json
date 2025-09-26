@@ -82,7 +82,7 @@
       "CLOSE_COMBAT",
       "BEHEMOTH_BLADE"
     ],
-    "score": 97.5,
+    "score": 99.3,
     "scores": [
       91.3,
       100,
@@ -91,6 +91,8 @@
       100,
       90.6
     ],
+    "editorScore": 100,
+    "editorNotes": "Crowned Forme Zacian boasts one of the best defensive typings in the game and stats which rival those of Mega Evolutions. It's a definitive Master League Pokemon of the current era, alongside Palkia. It's only held back by slower pacing and widely resisted Steel offenses, but neither of these put a dent in its dominating presence.",
     "stats": {
       "product": 10809,
       "atk": 291.5,
@@ -185,7 +187,7 @@
       "AQUA_TAIL",
       "SPACIAL_REND"
     ],
-    "score": 96,
+    "score": 99,
     "scores": [
       100,
       89.5,
@@ -194,118 +196,13 @@
       87.9,
       85.5
     ],
+    "editorScore": 100,
+    "editorNotes": "Origin Palkia is one of the definitive Master League Pokemon. It has everything you could ask for - stats, speed, power, and great typing, making it a top pick by most categories. Origin Forme is strictly better than Palkia's regular forme. If you don't have Spacial Rend, Fire Blast is a viable option to hit Zacian and other Steel types.",
     "stats": {
       "product": 8650,
       "atk": 252.9,
       "def": 199.9,
       "hp": 171
-    }
-  },
-  {
-    "speciesId": "lugia",
-    "speciesName": "Lugia",
-    "rating": 746,
-    "matchups": [
-      {
-        "opponent": "landorus_therian",
-        "rating": 697
-      },
-      {
-        "opponent": "eternatus",
-        "rating": 678
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 619
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 559
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 526
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "necrozma_dawn_wings",
-        "rating": 325
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 337
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 360
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 378
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 394
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "EXTRASENSORY",
-          "uses": 30989
-        },
-        {
-          "moveId": "DRAGON_TAIL",
-          "uses": 47211
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SKY_ATTACK",
-          "uses": 8637
-        },
-        {
-          "moveId": "RETURN",
-          "uses": 8051
-        },
-        {
-          "moveId": "HYDRO_PUMP",
-          "uses": 9766
-        },
-        {
-          "moveId": "FUTURE_SIGHT",
-          "uses": 12244
-        },
-        {
-          "moveId": "FLY",
-          "uses": 29903
-        },
-        {
-          "moveId": "AEROBLAST",
-          "uses": 9796
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_TAIL",
-      "AEROBLAST",
-      "FLY"
-    ],
-    "score": 95.7,
-    "scores": [
-      95.7,
-      91.2,
-      87,
-      90.9,
-      100,
-      86.3
-    ],
-    "stats": {
-      "product": 10024,
-      "atk": 174.7,
-      "def": 273,
-      "hp": 210
     }
   },
   {
@@ -405,6 +302,222 @@
       "atk": 222.6,
       "def": 257.9,
       "hp": 173
+    }
+  },
+  {
+    "speciesId": "dialga_origin",
+    "speciesName": "Dialga (Origin)",
+    "rating": 759,
+    "matchups": [
+      {
+        "opponent": "ho_oh",
+        "rating": 720
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 644
+      },
+      {
+        "opponent": "lugia",
+        "rating": 605
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 532
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 508
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 257
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 375
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 388
+      },
+      {
+        "opponent": "groudon",
+        "rating": 399
+      },
+      {
+        "opponent": "primarina",
+        "rating": 430
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "METAL_CLAW",
+          "uses": 26277
+        },
+        {
+          "moveId": "DRAGON_BREATH",
+          "uses": 51923
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "THUNDER",
+          "uses": 16357
+        },
+        {
+          "moveId": "ROAR_OF_TIME",
+          "uses": 32901
+        },
+        {
+          "moveId": "IRON_HEAD",
+          "uses": 21550
+        },
+        {
+          "moveId": "DRACO_METEOR",
+          "uses": 7479
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_BREATH",
+      "ROAR_OF_TIME",
+      "IRON_HEAD"
+    ],
+    "score": 94.5,
+    "scores": [
+      94.7,
+      89.9,
+      98.2,
+      95.4,
+      85,
+      78.5
+    ],
+    "editorScore": 95,
+    "editorNotes": "Origin Dialga is a signature presence in Master League, strictly better than its regular forme. Iron Head is a weaker attack, so Dialga is more dependent on its nuke, Roar of Time, than Palkia is. Dialga's struggles against Zacian keep it from being as dominating as its predecessor.",
+    "stats": {
+      "product": 8887,
+      "atk": 239.4,
+      "def": 201.6,
+      "hp": 184
+    }
+  },
+  {
+    "speciesId": "kyurem_white",
+    "speciesName": "Kyurem (White)",
+    "rating": 780,
+    "matchups": [
+      {
+        "opponent": "landorus_therian",
+        "rating": 848,
+        "opRating": 151
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 756
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 649
+      },
+      {
+        "opponent": "lugia",
+        "rating": 639
+      },
+      {
+        "opponent": "groudon",
+        "rating": 610,
+        "opRating": 389
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "eternatus",
+        "rating": 318
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 406
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 436
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 465
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 491
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "STEEL_WING",
+          "uses": 7826
+        },
+        {
+          "moveId": "ICE_FANG",
+          "uses": 26189
+        },
+        {
+          "moveId": "DRAGON_BREATH",
+          "uses": 44146
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "ICE_BURN",
+          "uses": 20575
+        },
+        {
+          "moveId": "FUSION_FLARE",
+          "uses": 20169
+        },
+        {
+          "moveId": "FOCUS_BLAST",
+          "uses": 8232
+        },
+        {
+          "moveId": "DRAGON_PULSE",
+          "uses": 12666
+        },
+        {
+          "moveId": "BLIZZARD",
+          "uses": 4956
+        },
+        {
+          "moveId": "ANCIENT_POWER",
+          "uses": 11678
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_BREATH",
+      "FUSION_FLARE",
+      "ICE_BURN"
+    ],
+    "score": 94.5,
+    "scores": [
+      96,
+      90,
+      96,
+      100,
+      67,
+      85.4
+    ],
+    "editorScore": 95,
+    "editorNotes": "Black and White Kyurem have declined since the introduction of Zacian, but remain powerful picks. They capitalize on their amazing stats, solid pacing, and powerful signature attacks. White Kyurem is generally the less flexible of the two, but poses a stronger threat to Zacian and Palkia.",
+    "stats": {
+      "product": 9905,
+      "atk": 273,
+      "def": 166.3,
+      "hp": 218
     }
   },
   {
@@ -511,235 +624,27 @@
     }
   },
   {
-    "speciesId": "lugia_shadow",
-    "speciesName": "Lugia (Shadow)",
-    "rating": 737,
+    "speciesId": "kyurem_black",
+    "speciesName": "Kyurem (Black)",
+    "rating": 747,
     "matchups": [
       {
-        "opponent": "groudon",
-        "rating": 747,
-        "opRating": 252
-      },
-      {
-        "opponent": "eternatus",
-        "rating": 664,
-        "opRating": 335
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 652,
-        "opRating": 347
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 585
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 554
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "dialga_origin",
-        "rating": 285
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 403
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 410
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 431
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 433
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "EXTRASENSORY",
-          "uses": 30475
-        },
-        {
-          "moveId": "DRAGON_TAIL",
-          "uses": 47725
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SKY_ATTACK",
-          "uses": 9621
-        },
-        {
-          "moveId": "HYDRO_PUMP",
-          "uses": 10740
-        },
-        {
-          "moveId": "FUTURE_SIGHT",
-          "uses": 13435
-        },
-        {
-          "moveId": "FRUSTRATION",
-          "uses": 0
-        },
-        {
-          "moveId": "FLY",
-          "uses": 33334
-        },
-        {
-          "moveId": "AEROBLAST",
-          "uses": 10785
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_TAIL",
-      "AEROBLAST",
-      "FLY"
-    ],
-    "score": 93.8,
-    "scores": [
-      93,
-      90.9,
-      86.4,
-      91,
-      97.1,
-      86.3
-    ],
-    "stats": {
-      "product": 10024,
-      "atk": 174.7,
-      "def": 273,
-      "hp": 210
-    }
-  },
-  {
-    "speciesId": "dialga_origin",
-    "speciesName": "Dialga (Origin)",
-    "rating": 759,
-    "matchups": [
-      {
-        "opponent": "ho_oh",
-        "rating": 720
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 644
-      },
-      {
-        "opponent": "lugia",
-        "rating": 605
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 532
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 508
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 257
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 375
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 388
-      },
-      {
-        "opponent": "groudon",
-        "rating": 399
-      },
-      {
-        "opponent": "primarina",
-        "rating": 430
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "METAL_CLAW",
-          "uses": 26277
-        },
-        {
-          "moveId": "DRAGON_BREATH",
-          "uses": 51923
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "THUNDER",
-          "uses": 16357
-        },
-        {
-          "moveId": "ROAR_OF_TIME",
-          "uses": 32901
-        },
-        {
-          "moveId": "IRON_HEAD",
-          "uses": 21550
-        },
-        {
-          "moveId": "DRACO_METEOR",
-          "uses": 7479
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_BREATH",
-      "ROAR_OF_TIME",
-      "IRON_HEAD"
-    ],
-    "score": 93.3,
-    "scores": [
-      94.7,
-      89.9,
-      98.2,
-      95.4,
-      85,
-      78.5
-    ],
-    "stats": {
-      "product": 8887,
-      "atk": 239.4,
-      "def": 201.6,
-      "hp": 184
-    }
-  },
-  {
-    "speciesId": "kyurem_white",
-    "speciesName": "Kyurem (White)",
-    "rating": 780,
-    "matchups": [
-      {
-        "opponent": "landorus_therian",
-        "rating": 848,
-        "opRating": 151
+        "opponent": "kyogre",
+        "rating": 832,
+        "opRating": 167
       },
       {
         "opponent": "ho_oh",
         "rating": 756
       },
       {
-        "opponent": "kyurem_black",
-        "rating": 649
+        "opponent": "lugia",
+        "rating": 662
       },
       {
-        "opponent": "lugia",
-        "rating": 639
+        "opponent": "necrozma_dawn_wings",
+        "rating": 612,
+        "opRating": 387
       },
       {
         "opponent": "groudon",
@@ -749,186 +654,85 @@
     ],
     "counters": [
       {
-        "opponent": "eternatus",
-        "rating": 318
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 406
-      },
-      {
         "opponent": "zacian_crowned_sword",
-        "rating": 436
+        "rating": 306
       },
       {
         "opponent": "zamazenta_crowned_shield",
-        "rating": 465
+        "rating": 326
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 330
       },
       {
         "opponent": "dialga_origin",
-        "rating": 491
+        "rating": 355
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 383
       }
     ],
     "moves": {
       "fastMoves": [
         {
-          "moveId": "STEEL_WING",
-          "uses": 7826
+          "moveId": "SHADOW_CLAW",
+          "uses": 37504
         },
         {
-          "moveId": "ICE_FANG",
-          "uses": 26189
-        },
-        {
-          "moveId": "DRAGON_BREATH",
-          "uses": 44146
+          "moveId": "DRAGON_TAIL",
+          "uses": 40696
         }
       ],
       "chargedMoves": [
         {
-          "moveId": "ICE_BURN",
-          "uses": 20575
+          "moveId": "STONE_EDGE",
+          "uses": 11569
         },
         {
-          "moveId": "FUSION_FLARE",
-          "uses": 20169
+          "moveId": "OUTRAGE",
+          "uses": 12813
         },
         {
-          "moveId": "FOCUS_BLAST",
-          "uses": 8232
+          "moveId": "IRON_HEAD",
+          "uses": 7592
         },
         {
-          "moveId": "DRAGON_PULSE",
-          "uses": 12666
+          "moveId": "FUSION_BOLT",
+          "uses": 20206
+        },
+        {
+          "moveId": "FREEZE_SHOCK",
+          "uses": 20969
         },
         {
           "moveId": "BLIZZARD",
-          "uses": 4956
-        },
-        {
-          "moveId": "ANCIENT_POWER",
-          "uses": 11678
+          "uses": 5080
         }
       ]
     },
     "moveset": [
-      "DRAGON_BREATH",
-      "FUSION_FLARE",
-      "ICE_BURN"
+      "DRAGON_TAIL",
+      "FREEZE_SHOCK",
+      "FUSION_BOLT"
     ],
-    "score": 93.3,
+    "score": 92.9,
     "scores": [
-      96,
-      90,
-      96,
-      100,
-      67,
+      86.1,
+      89,
+      88.3,
+      92.9,
+      54.9,
       85.4
     ],
+    "editorScore": 95,
+    "editorNotes": "Black and White Kyurem have declined since the introduction of Zacian, but remain powerful picks. They capitalize on their amazing stats, solid pacing, and powerful signature attacks. Black Kyurem is generally the more flexible of the two but has fewer domineering matchups.",
     "stats": {
       "product": 9905,
       "atk": 273,
       "def": 166.3,
       "hp": 218
-    }
-  },
-  {
-    "speciesId": "solgaleo",
-    "speciesName": "Solgaleo",
-    "rating": 737,
-    "matchups": [
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 717
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 679
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 623
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 542
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 508
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "groudon",
-        "rating": 298
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 361
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 369
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 380
-      },
-      {
-        "opponent": "lugia",
-        "rating": 450
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "ZEN_HEADBUTT",
-          "uses": 14261
-        },
-        {
-          "moveId": "FIRE_SPIN",
-          "uses": 63939
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SOLAR_BEAM",
-          "uses": 8740
-        },
-        {
-          "moveId": "PSYCHIC_FANGS",
-          "uses": 34537
-        },
-        {
-          "moveId": "IRON_HEAD",
-          "uses": 17945
-        },
-        {
-          "moveId": "FLAMETHROWER",
-          "uses": 17090
-        }
-      ]
-    },
-    "moveset": [
-      "FIRE_SPIN",
-      "PSYCHIC_FANGS",
-      "IRON_HEAD"
-    ],
-    "score": 92.3,
-    "scores": [
-      90.4,
-      78.9,
-      80.5,
-      85.6,
-      99.2,
-      87.5
-    ],
-    "stats": {
-      "product": 9190,
-      "atk": 226.8,
-      "def": 173.1,
-      "hp": 234
     }
   },
   {
@@ -1034,6 +838,115 @@
       "atk": 243.6,
       "def": 189.9,
       "hp": 184
+    }
+  },
+  {
+    "speciesId": "lugia",
+    "speciesName": "Lugia",
+    "rating": 746,
+    "matchups": [
+      {
+        "opponent": "landorus_therian",
+        "rating": 697
+      },
+      {
+        "opponent": "eternatus",
+        "rating": 678
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 619
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 559
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 526
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "necrozma_dawn_wings",
+        "rating": 325
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 337
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 360
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 378
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 394
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "EXTRASENSORY",
+          "uses": 30989
+        },
+        {
+          "moveId": "DRAGON_TAIL",
+          "uses": 47211
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SKY_ATTACK",
+          "uses": 8637
+        },
+        {
+          "moveId": "RETURN",
+          "uses": 8051
+        },
+        {
+          "moveId": "HYDRO_PUMP",
+          "uses": 9766
+        },
+        {
+          "moveId": "FUTURE_SIGHT",
+          "uses": 12244
+        },
+        {
+          "moveId": "FLY",
+          "uses": 29903
+        },
+        {
+          "moveId": "AEROBLAST",
+          "uses": 9796
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_TAIL",
+      "AEROBLAST",
+      "FLY"
+    ],
+    "score": 91.4,
+    "scores": [
+      95.7,
+      91.2,
+      87,
+      90.9,
+      100,
+      86.3
+    ],
+    "editorScore": 90,
+    "editorNotes": "Lugia scores well in simulations thanks to its incredible stats and neutral matchup profile. However, its low offensive power and its struggles against Zacian and other Steel types reduce its effectiveness in the metagame.",
+    "stats": {
+      "product": 10024,
+      "atk": 174.7,
+      "def": 273,
+      "hp": 210
     }
   },
   {
@@ -1152,6 +1065,118 @@
       "atk": 190.7,
       "def": 217.6,
       "hp": 168
+    }
+  },
+  {
+    "speciesId": "lugia_shadow",
+    "speciesName": "Lugia (Shadow)",
+    "rating": 737,
+    "matchups": [
+      {
+        "opponent": "groudon",
+        "rating": 747,
+        "opRating": 252
+      },
+      {
+        "opponent": "eternatus",
+        "rating": 664,
+        "opRating": 335
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 652,
+        "opRating": 347
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 585
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 554
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "dialga_origin",
+        "rating": 285
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 403
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 410
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 431
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 433
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "EXTRASENSORY",
+          "uses": 30475
+        },
+        {
+          "moveId": "DRAGON_TAIL",
+          "uses": 47725
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SKY_ATTACK",
+          "uses": 9621
+        },
+        {
+          "moveId": "HYDRO_PUMP",
+          "uses": 10740
+        },
+        {
+          "moveId": "FUTURE_SIGHT",
+          "uses": 13435
+        },
+        {
+          "moveId": "FRUSTRATION",
+          "uses": 0
+        },
+        {
+          "moveId": "FLY",
+          "uses": 33334
+        },
+        {
+          "moveId": "AEROBLAST",
+          "uses": 10785
+        }
+      ]
+    },
+    "moveset": [
+      "DRAGON_TAIL",
+      "AEROBLAST",
+      "FLY"
+    ],
+    "score": 90.9,
+    "scores": [
+      93,
+      90.9,
+      86.4,
+      91,
+      97.1,
+      86.3
+    ],
+    "editorScore": 90,
+    "editorNotes": "Lugia scores well in simulations thanks to its incredible stats and neutral matchup profile. However, its low offensive power and its struggles against Zacian and other Steel types reduce its effectiveness in the metagame.",
+    "stats": {
+      "product": 10024,
+      "atk": 174.7,
+      "def": 273,
+      "hp": 210
     }
   },
   {
@@ -1682,6 +1707,186 @@
       "atk": 245.3,
       "def": 197.4,
       "hp": 180
+    }
+  },
+  {
+    "speciesId": "ho_oh",
+    "speciesName": "Ho-Oh",
+    "rating": 661,
+    "matchups": [
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 677
+      },
+      {
+        "opponent": "groudon",
+        "rating": 651,
+        "opRating": 348
+      },
+      {
+        "opponent": "florges",
+        "rating": 601,
+        "opRating": 398
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 585
+      },
+      {
+        "opponent": "primarina",
+        "rating": 567,
+        "opRating": 432
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "palkia_origin",
+        "rating": 105
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 243
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 266
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 279
+      },
+      {
+        "opponent": "lugia",
+        "rating": 440
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "STEEL_WING",
+          "uses": 3015
+        },
+        {
+          "moveId": "INCINERATE",
+          "uses": 19244
+        },
+        {
+          "moveId": "HIDDEN_POWER_WATER",
+          "uses": 3047
+        },
+        {
+          "moveId": "HIDDEN_POWER_STEEL",
+          "uses": 2717
+        },
+        {
+          "moveId": "HIDDEN_POWER_ROCK",
+          "uses": 3467
+        },
+        {
+          "moveId": "HIDDEN_POWER_PSYCHIC",
+          "uses": 2598
+        },
+        {
+          "moveId": "HIDDEN_POWER_POISON",
+          "uses": 2411
+        },
+        {
+          "moveId": "HIDDEN_POWER_ICE",
+          "uses": 3702
+        },
+        {
+          "moveId": "HIDDEN_POWER_GROUND",
+          "uses": 3652
+        },
+        {
+          "moveId": "HIDDEN_POWER_GRASS",
+          "uses": 2743
+        },
+        {
+          "moveId": "HIDDEN_POWER_GHOST",
+          "uses": 3386
+        },
+        {
+          "moveId": "HIDDEN_POWER_FLYING",
+          "uses": 3799
+        },
+        {
+          "moveId": "HIDDEN_POWER_FIRE",
+          "uses": 3796
+        },
+        {
+          "moveId": "HIDDEN_POWER_FIGHTING",
+          "uses": 3211
+        },
+        {
+          "moveId": "HIDDEN_POWER_ELECTRIC",
+          "uses": 2965
+        },
+        {
+          "moveId": "HIDDEN_POWER_DRAGON",
+          "uses": 3139
+        },
+        {
+          "moveId": "HIDDEN_POWER_DARK",
+          "uses": 3170
+        },
+        {
+          "moveId": "HIDDEN_POWER_BUG",
+          "uses": 2306
+        },
+        {
+          "moveId": "EXTRASENSORY",
+          "uses": 5165
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SOLAR_BEAM",
+          "uses": 6825
+        },
+        {
+          "moveId": "SACRED_FIRE",
+          "uses": 19565
+        },
+        {
+          "moveId": "RETURN",
+          "uses": 6750
+        },
+        {
+          "moveId": "FIRE_BLAST",
+          "uses": 3914
+        },
+        {
+          "moveId": "EARTHQUAKE",
+          "uses": 10956
+        },
+        {
+          "moveId": "BRAVE_BIRD",
+          "uses": 30085
+        }
+      ]
+    },
+    "moveset": [
+      "INCINERATE",
+      "BRAVE_BIRD",
+      "SACRED_FIRE"
+    ],
+    "score": 88.5,
+    "scores": [
+      75.9,
+      89.5,
+      64.4,
+      82.2,
+      79.3,
+      78.6
+    ],
+    "editorScore": 90,
+    "editorNotes": "Ho-oh is a vital anti-meta presence to combat Zacian and other Steel or Fairy types. Its high-energy attacks can threaten most Pokemon, but some may find its playstyle to be too cumbersome. It also faces significant challenges against Palkia.",
+    "stats": {
+      "product": 8919,
+      "atk": 213.4,
+      "def": 217.6,
+      "hp": 192
     }
   },
   {
@@ -2281,6 +2486,107 @@
     }
   },
   {
+    "speciesId": "solgaleo",
+    "speciesName": "Solgaleo",
+    "rating": 737,
+    "matchups": [
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 717
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 679
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 623
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 542
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 508
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "groudon",
+        "rating": 298
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 361
+      },
+      {
+        "opponent": "landorus_therian",
+        "rating": 369
+      },
+      {
+        "opponent": "palkia_origin",
+        "rating": 380
+      },
+      {
+        "opponent": "lugia",
+        "rating": 450
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "ZEN_HEADBUTT",
+          "uses": 14261
+        },
+        {
+          "moveId": "FIRE_SPIN",
+          "uses": 63939
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "SOLAR_BEAM",
+          "uses": 8740
+        },
+        {
+          "moveId": "PSYCHIC_FANGS",
+          "uses": 34537
+        },
+        {
+          "moveId": "IRON_HEAD",
+          "uses": 17945
+        },
+        {
+          "moveId": "FLAMETHROWER",
+          "uses": 17090
+        }
+      ]
+    },
+    "moveset": [
+      "FIRE_SPIN",
+      "PSYCHIC_FANGS",
+      "IRON_HEAD"
+    ],
+    "score": 86.8,
+    "scores": [
+      90.4,
+      78.9,
+      80.5,
+      85.6,
+      99.2,
+      87.5
+    ],
+    "editorScore": 85,
+    "editorNotes": "Solgaleo's Steel typing and unique offenses give it an intriguing place in the metagame. However, its lack of closing power is a serious hindrance, and it's more likely to consume more shields than it earns. It can work as an anti-meta pick and on alignment heavy teams, but it lends a difficult win-more playstyle.",
+    "stats": {
+      "product": 9190,
+      "atk": 226.8,
+      "def": 173.1,
+      "hp": 234
+    }
+  },
+  {
     "speciesId": "jirachi",
     "speciesName": "Jirachi",
     "rating": 699,
@@ -2480,116 +2786,6 @@
       "product": 7433,
       "atk": 219.3,
       "def": 155.4,
-      "hp": 218
-    }
-  },
-  {
-    "speciesId": "kyurem_black",
-    "speciesName": "Kyurem (Black)",
-    "rating": 747,
-    "matchups": [
-      {
-        "opponent": "kyogre",
-        "rating": 832,
-        "opRating": 167
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 756
-      },
-      {
-        "opponent": "lugia",
-        "rating": 662
-      },
-      {
-        "opponent": "necrozma_dawn_wings",
-        "rating": 612,
-        "opRating": 387
-      },
-      {
-        "opponent": "groudon",
-        "rating": 610,
-        "opRating": 389
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 306
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 326
-      },
-      {
-        "opponent": "palkia_origin",
-        "rating": 330
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 355
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 383
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "SHADOW_CLAW",
-          "uses": 37504
-        },
-        {
-          "moveId": "DRAGON_TAIL",
-          "uses": 40696
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "STONE_EDGE",
-          "uses": 11569
-        },
-        {
-          "moveId": "OUTRAGE",
-          "uses": 12813
-        },
-        {
-          "moveId": "IRON_HEAD",
-          "uses": 7592
-        },
-        {
-          "moveId": "FUSION_BOLT",
-          "uses": 20206
-        },
-        {
-          "moveId": "FREEZE_SHOCK",
-          "uses": 20969
-        },
-        {
-          "moveId": "BLIZZARD",
-          "uses": 5080
-        }
-      ]
-    },
-    "moveset": [
-      "DRAGON_TAIL",
-      "FREEZE_SHOCK",
-      "FUSION_BOLT"
-    ],
-    "score": 86.7,
-    "scores": [
-      86.1,
-      89,
-      88.3,
-      92.9,
-      54.9,
-      85.4
-    ],
-    "stats": {
-      "product": 9905,
-      "atk": 273,
-      "def": 166.3,
       "hp": 218
     }
   },
@@ -3235,6 +3431,113 @@
     }
   },
   {
+    "speciesId": "kyogre",
+    "speciesName": "Kyogre",
+    "rating": 596,
+    "matchups": [
+      {
+        "opponent": "landorus_therian",
+        "rating": 706,
+        "opRating": 293
+      },
+      {
+        "opponent": "zamazenta_crowned_shield",
+        "rating": 673
+      },
+      {
+        "opponent": "zacian_crowned_sword",
+        "rating": 548
+      },
+      {
+        "opponent": "ho_oh",
+        "rating": 529
+      },
+      {
+        "opponent": "groudon",
+        "rating": 502,
+        "opRating": 497
+      }
+    ],
+    "counters": [
+      {
+        "opponent": "palkia_origin",
+        "rating": 149
+      },
+      {
+        "opponent": "kyurem_black",
+        "rating": 167
+      },
+      {
+        "opponent": "kyurem_white",
+        "rating": 188
+      },
+      {
+        "opponent": "dialga_origin",
+        "rating": 192
+      },
+      {
+        "opponent": "lugia",
+        "rating": 383
+      }
+    ],
+    "moves": {
+      "fastMoves": [
+        {
+          "moveId": "WATERFALL",
+          "uses": 78200
+        }
+      ],
+      "chargedMoves": [
+        {
+          "moveId": "THUNDER",
+          "uses": 12270
+        },
+        {
+          "moveId": "SURF",
+          "uses": 24970
+        },
+        {
+          "moveId": "RETURN",
+          "uses": 8594
+        },
+        {
+          "moveId": "ORIGIN_PULSE",
+          "uses": 14600
+        },
+        {
+          "moveId": "HYDRO_PUMP",
+          "uses": 4805
+        },
+        {
+          "moveId": "BLIZZARD",
+          "uses": 12767
+        }
+      ]
+    },
+    "moveset": [
+      "WATERFALL",
+      "SURF",
+      "ORIGIN_PULSE"
+    ],
+    "score": 86,
+    "scores": [
+      69.2,
+      77.4,
+      33.3,
+      70,
+      66.7,
+      90
+    ],
+    "editorScore": 90,
+    "editorNotes": "Kyogre is a longtime staple of the format. It typically rates poorly in the simulations due to its mono-Water moveset and the prominence of Dragon types. While its strongest days are behind it, it still has an anti-meta role to play against Zacian and Ho-oh.",
+    "stats": {
+      "product": 8998,
+      "atk": 239.4,
+      "def": 204.1,
+      "hp": 184
+    }
+  },
+  {
     "speciesId": "metagross",
     "speciesName": "Metagross",
     "rating": 632,
@@ -3772,189 +4075,13 @@
       79.5,
       93.1
     ],
+    "editorScore": 85,
+    "editorNotes": "Primarina's stats may be eclipsed by its Legendary opponents, but it serves a vital and accessible anti-meta role against Palkia. Primarina depends on shields for success, so look to pair it with stat monsters who can absorb hits on its behalf.",
     "stats": {
       "product": 6300,
       "atk": 207.5,
       "def": 176.4,
       "hp": 172
-    }
-  },
-  {
-    "speciesId": "ho_oh",
-    "speciesName": "Ho-Oh",
-    "rating": 661,
-    "matchups": [
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 677
-      },
-      {
-        "opponent": "groudon",
-        "rating": 651,
-        "opRating": 348
-      },
-      {
-        "opponent": "florges",
-        "rating": 601,
-        "opRating": 398
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 585
-      },
-      {
-        "opponent": "primarina",
-        "rating": 567,
-        "opRating": 432
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "palkia_origin",
-        "rating": 105
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 243
-      },
-      {
-        "opponent": "landorus_therian",
-        "rating": 266
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 279
-      },
-      {
-        "opponent": "lugia",
-        "rating": 440
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "STEEL_WING",
-          "uses": 3015
-        },
-        {
-          "moveId": "INCINERATE",
-          "uses": 19244
-        },
-        {
-          "moveId": "HIDDEN_POWER_WATER",
-          "uses": 3047
-        },
-        {
-          "moveId": "HIDDEN_POWER_STEEL",
-          "uses": 2717
-        },
-        {
-          "moveId": "HIDDEN_POWER_ROCK",
-          "uses": 3467
-        },
-        {
-          "moveId": "HIDDEN_POWER_PSYCHIC",
-          "uses": 2598
-        },
-        {
-          "moveId": "HIDDEN_POWER_POISON",
-          "uses": 2411
-        },
-        {
-          "moveId": "HIDDEN_POWER_ICE",
-          "uses": 3702
-        },
-        {
-          "moveId": "HIDDEN_POWER_GROUND",
-          "uses": 3652
-        },
-        {
-          "moveId": "HIDDEN_POWER_GRASS",
-          "uses": 2743
-        },
-        {
-          "moveId": "HIDDEN_POWER_GHOST",
-          "uses": 3386
-        },
-        {
-          "moveId": "HIDDEN_POWER_FLYING",
-          "uses": 3799
-        },
-        {
-          "moveId": "HIDDEN_POWER_FIRE",
-          "uses": 3796
-        },
-        {
-          "moveId": "HIDDEN_POWER_FIGHTING",
-          "uses": 3211
-        },
-        {
-          "moveId": "HIDDEN_POWER_ELECTRIC",
-          "uses": 2965
-        },
-        {
-          "moveId": "HIDDEN_POWER_DRAGON",
-          "uses": 3139
-        },
-        {
-          "moveId": "HIDDEN_POWER_DARK",
-          "uses": 3170
-        },
-        {
-          "moveId": "HIDDEN_POWER_BUG",
-          "uses": 2306
-        },
-        {
-          "moveId": "EXTRASENSORY",
-          "uses": 5165
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "SOLAR_BEAM",
-          "uses": 6825
-        },
-        {
-          "moveId": "SACRED_FIRE",
-          "uses": 19565
-        },
-        {
-          "moveId": "RETURN",
-          "uses": 6750
-        },
-        {
-          "moveId": "FIRE_BLAST",
-          "uses": 3914
-        },
-        {
-          "moveId": "EARTHQUAKE",
-          "uses": 10956
-        },
-        {
-          "moveId": "BRAVE_BIRD",
-          "uses": 30085
-        }
-      ]
-    },
-    "moveset": [
-      "INCINERATE",
-      "BRAVE_BIRD",
-      "SACRED_FIRE"
-    ],
-    "score": 84.2,
-    "scores": [
-      75.9,
-      89.5,
-      64.4,
-      82.2,
-      79.3,
-      78.6
-    ],
-    "stats": {
-      "product": 8919,
-      "atk": 213.4,
-      "def": 217.6,
-      "hp": 192
     }
   },
   {
@@ -9676,111 +9803,6 @@
       "atk": 189,
       "def": 189,
       "hp": 201
-    }
-  },
-  {
-    "speciesId": "kyogre",
-    "speciesName": "Kyogre",
-    "rating": 596,
-    "matchups": [
-      {
-        "opponent": "landorus_therian",
-        "rating": 706,
-        "opRating": 293
-      },
-      {
-        "opponent": "zamazenta_crowned_shield",
-        "rating": 673
-      },
-      {
-        "opponent": "zacian_crowned_sword",
-        "rating": 548
-      },
-      {
-        "opponent": "ho_oh",
-        "rating": 529
-      },
-      {
-        "opponent": "groudon",
-        "rating": 502,
-        "opRating": 497
-      }
-    ],
-    "counters": [
-      {
-        "opponent": "palkia_origin",
-        "rating": 149
-      },
-      {
-        "opponent": "kyurem_black",
-        "rating": 167
-      },
-      {
-        "opponent": "kyurem_white",
-        "rating": 188
-      },
-      {
-        "opponent": "dialga_origin",
-        "rating": 192
-      },
-      {
-        "opponent": "lugia",
-        "rating": 383
-      }
-    ],
-    "moves": {
-      "fastMoves": [
-        {
-          "moveId": "WATERFALL",
-          "uses": 78200
-        }
-      ],
-      "chargedMoves": [
-        {
-          "moveId": "THUNDER",
-          "uses": 12270
-        },
-        {
-          "moveId": "SURF",
-          "uses": 24970
-        },
-        {
-          "moveId": "RETURN",
-          "uses": 8594
-        },
-        {
-          "moveId": "ORIGIN_PULSE",
-          "uses": 14600
-        },
-        {
-          "moveId": "HYDRO_PUMP",
-          "uses": 4805
-        },
-        {
-          "moveId": "BLIZZARD",
-          "uses": 12767
-        }
-      ]
-    },
-    "moveset": [
-      "WATERFALL",
-      "SURF",
-      "ORIGIN_PULSE"
-    ],
-    "score": 74.3,
-    "scores": [
-      69.2,
-      77.4,
-      33.3,
-      70,
-      66.7,
-      90
-    ],
-    "stats": {
-      "product": 8998,
-      "atk": 239.4,
-      "def": 204.1,
-      "hp": 184
     }
   },
   {
