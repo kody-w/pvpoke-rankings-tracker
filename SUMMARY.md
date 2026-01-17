@@ -1,4 +1,4 @@
-## PvPoke Rankings Summary - Sat Jan 17 12:59:02 UTC 2026
+## PvPoke Rankings Summary - Sat Jan 17 18:43:40 UTC 2026
 
 ### Master League (10000 CP)
 - Total Pokemon: 392
@@ -11,6 +11,6 @@
   - Kyurem (White): 94.8 points
   - Dialga (Origin): 94.4 points
   - Reshiram: 94.2 points
-  - Lunala: 94 points
+  - Lunala: 93.9 points
   - Zekrom: 93.1 points
 
