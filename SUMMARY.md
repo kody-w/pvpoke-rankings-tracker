@@ -1,4 +1,4 @@
-## PvPoke Rankings Summary - Wed Jan 21 18:59:02 UTC 2026
+## PvPoke Rankings Summary - Thu Jan 22 02:33:12 UTC 2026
 
 ### Master League (10000 CP)
 - Total Pokemon: 392
