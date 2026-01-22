@@ -1,16 +1,16 @@
-## PvPoke Rankings Summary - Thu Jan 22 13:12:30 UTC 2026
+## PvPoke Rankings Summary - Thu Jan 22 18:51:44 UTC 2026
 
 ### Master League (10000 CP)
-- Total Pokemon: 392
+- Total Pokemon: 395
 - Top 10 Pokemon:
   - Zacian (Crowned Sword): 99.2 points
   - Palkia (Origin): 98.9 points
   - Metagross: 98.1 points
-  - Xerneas: 96.7 points
+  - Xerneas: 96.6 points
   - Zamazenta (Crowned Shield): 95.5 points
   - Kyurem (White): 94.8 points
   - Dialga (Origin): 94.4 points
   - Reshiram: 94.2 points
-  - Lunala: 93.9 points
-  - Zekrom: 93.1 points
+  - Lunala: 94 points
+  - Zekrom: 93.2 points
 
